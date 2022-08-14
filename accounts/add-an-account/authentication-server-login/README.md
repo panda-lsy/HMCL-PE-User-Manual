@@ -7,3 +7,5 @@ There are two ways
 * Authlib-injector
 * nide8auth**(WIP)**
 
+For ease of reading, Authentication Server Login using HMCL-PE will be mentioned [below.](login-via-authentication-server/)
+
