@@ -12,6 +12,10 @@ description: This lists the problems that can occur from installation to startup
 
 Just like any other app installation, you just need to click on the installation package file (.apk) and you can install it.
 
-## FAQ
 
-Q:
+
+## Common Problems
+
+Click to view:
+
+[Q:Can't Install HMCL-PE APP](../faq/q-cant-install-hmcl-pe-app.md)

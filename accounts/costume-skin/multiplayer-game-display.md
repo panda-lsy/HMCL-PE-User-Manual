@@ -10,7 +10,7 @@ If you want to use it, you need to install it in the server side and the client 
 
 It supports many versions of the game:
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 ![](<../../.gitbook/assets/image (2).png>)
 

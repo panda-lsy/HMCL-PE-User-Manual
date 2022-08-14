@@ -45,3 +45,21 @@
   * [Local Skin File](accounts/costume-skin/local-skin-file.md)
   * [Authentication Server's name](accounts/costume-skin/authentication-servers-name.md)
   * [Multiplayer game display](accounts/costume-skin/multiplayer-game-display.md)
+* [Delete an account](accounts/delete-an-account.md)
+
+## 🎁 Prepare for Minecraft
+
+* [Download Minecraft with HMCL-PE](prepare-for-minecraft/download-minecraft-with-hmcl-pe.md)
+* [Download Forge/Fabric/Liteloader](prepare-for-minecraft/download-forge-fabric-liteloader.md)
+* [Download Optifine](prepare-for-minecraft/download-optifine.md)
+* [Download other minecraft resources](prepare-for-minecraft/download-other-minecraft-resources.md)
+* [Some tips about file location](prepare-for-minecraft/some-tips-about-file-location.md)
+* [Installing Modpack](prepare-for-minecraft/installing-modpack.md)
+
+## ❓ FAQ
+
+* [Q:Can't Install HMCL-PE APP](faq/q-cant-install-hmcl-pe-app.md)
+* [Q:Screen rendering errors](faq/q-screen-rendering-errors.md)
+* [Q:Unclear rendering](faq/q-unclear-rendering.md)
+* [Q:Download always fails with HMCL-PE](faq/q-download-always-fails-with-hmcl-pe.md)
+* [Q:My HMCLPE folder is empty](faq/q-my-hmclpe-folder-is-empty.md)
