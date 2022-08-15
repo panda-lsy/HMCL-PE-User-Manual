@@ -7,8 +7,8 @@
 
 ## How to download & Install?
 
-* [Install](how-to-download-and-install/install.md)
 * [Download](how-to-download-and-install/download.md)
+* [Install](how-to-download-and-install/install.md)
 * [JRE 17 Download](how-to-download-and-install/jre-17-download.md)
 
 ## 🔧 Basic Settings
@@ -71,6 +71,7 @@
 
 * [Play Minecraft](time-to-play/play-minecraft.md)
 * [HMCL-PE Control Layout Pattern](time-to-play/hmcl-pe-control-layout-pattern/README.md)
+  * [Default button description](time-to-play/hmcl-pe-control-layout-pattern/default-button-description.md)
   * [In-game Control Layout Pattern](time-to-play/hmcl-pe-control-layout-pattern/in-game-control-layout-pattern.md)
   * [HMCL-PE setting interface modification](time-to-play/hmcl-pe-control-layout-pattern/hmcl-pe-setting-interface-modification.md)
 
@@ -81,6 +82,7 @@
 * [Q:Unclear rendering](faq/q-unclear-rendering.md)
 * [Q:Download always fails with HMCL-PE](faq/q-download-always-fails-with-hmcl-pe.md)
 * [Q:My HMCLPE folder is empty](faq/q-my-hmclpe-folder-is-empty.md)
+* [Q:Cannot touch the items in item bar](faq/q-cannot-touch-the-items-in-item-bar.md)
 
 ## 🤝 MOD Helper
 

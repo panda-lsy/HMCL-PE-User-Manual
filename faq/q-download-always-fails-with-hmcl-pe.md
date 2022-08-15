@@ -2,6 +2,7 @@
 
 ### A:**If you are having problems downloading, please use the following method.**
 
+* **Check your connection or your connection speed**
 * **Try a few more times**
 * **Try again at a different time**
 * ****[**Change download way**](../basic-settings/download/download-settings.md)****

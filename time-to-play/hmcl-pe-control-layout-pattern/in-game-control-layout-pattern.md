@@ -118,3 +118,11 @@ You can delete a button by long pressing it (requires Edit mode to be turned on)
 
 **X/Y coordinate:**Set button in screen length/width percentage.You can also change the button position by dragging.
 
+**Follow Settings:**Lets the button follow the finger or not.
+
+**Double click center to enable shift:**If you want to press the middle shift, you need to click the button twice in a row.
+
+#### Appearance Settings
+
+**Manage local button style:**You can set the appearance of the buttons.
+

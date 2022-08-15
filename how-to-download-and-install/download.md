@@ -13,9 +13,6 @@ description: The following content source official WIKI
 There are two ways to download:
 
 1. [Github Downloads](https://github.com/Tungstend/HMCL-PE/releases)|Recommended
-2. [Lanzou Downloads](https://wwc.lanzoub.com/i5NEn04re78b)
-
-
 
 **Device Configuration Requirements**
 
