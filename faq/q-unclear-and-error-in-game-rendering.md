@@ -10,8 +10,6 @@
 
 ### A2:Just use resourcepacks
 
-### A3:If you have Optifine installed, please remove it.
-
 {% hint style="danger" %}
 **There is no accurate answer to this question yet, if you have tried everything to no avail, please go to Github and submit** [**Issue**](https://github.com/Tungstend/HMCL-PE/issues)**.**
 {% endhint %}
