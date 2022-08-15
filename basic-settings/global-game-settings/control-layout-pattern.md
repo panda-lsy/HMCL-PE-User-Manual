@@ -1,8 +1,14 @@
 # ⌨ Control Layout Pattern
 
+Open the [Global game settings screen](./),find this:
+
 You can manage the touch layout options that HMCL-PE gives you.
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-15-46-09-16\_d17cc25ab2657fb.jpg)
+
+### Create
+
+You can click the Create button to create a new Control Layout Pattern
 
 ### Edit
 
@@ -17,6 +23,10 @@ The specific settings will be mentioned below.
 You can click the share button to export your settings as a .hmclpe file and share with friends
 
 You can exchange these with other players in the "HMCL-PE": "#custom-control" section of the [official HMCL-PE Discord](https://discord.com/invite/c79XjKHy4S).
+
+### Import
+
+After you download someone else's file, you need to use this function to import it to HMCL-PE. or you can click on the downloaded .hmclpe format file and open it with HMCL-PE
 
 ### Delete
 

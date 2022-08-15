@@ -4,6 +4,10 @@ description: You can use this to modify the way the game starts.
 
 # 🎮 Launch & Renderer Options
 
+Open the [Global game settings screen](./),find this:
+
+![](../../.gitbook/assets/Screenshot\_2022-08-15-14-13-39-32\_d17cc25ab2657fb.jpg)
+
 ### Game launch
 
 You can launch the game via Boat or PojavLauncher.

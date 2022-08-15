@@ -1,5 +1,7 @@
 # Background Image
 
+Open the [Appearance Settings screen](./),find this:
+
 You have four ways to change the background image.
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-20-17-59\_d17cc25ab2657fb.jpg)

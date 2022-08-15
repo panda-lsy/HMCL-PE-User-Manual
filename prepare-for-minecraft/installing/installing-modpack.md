@@ -31,7 +31,7 @@ You have to compress and transfer the folder to the phone:
 * saves
 * servers.dat(Server list file)
 
-Finally, you just need to drag these files into your installed[ minecraft version folder](some-tips-about-file-location.md)
+Finally, you just need to drag these files into your installed[ minecraft version folder](../some-tips-about-file-location.md)
 
 ### Server-side Thief(No computer required)
 

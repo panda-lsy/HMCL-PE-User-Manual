@@ -4,6 +4,8 @@ description: You may need to modify your download settings.
 
 # ⚙ Download Settings
 
+Open the [Download Settings screen](./),find this:
+
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-42-02-79\_d17cc25ab2657fb.jpg)
 
 You can download minecraft files in three ways

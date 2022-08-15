@@ -1,11 +1,14 @@
 # Table of contents
 
 * [😘 Introduction](README.md)
+  * [HMCL-PE](introduction/hmcl-pe.md)
+  * [HMCL-PE User Manual](introduction/hmcl-pe-user-manual.md)
+  * [For Beginners](introduction/for-beginners.md)
 
 ## How to download & Install?
 
-* [Download](how-to-download-and-install/download.md)
 * [Install](how-to-download-and-install/install.md)
+* [Download](how-to-download-and-install/download.md)
 * [JRE 17 Download](how-to-download-and-install/jre-17-download.md)
 
 ## 🔧 Basic Settings
@@ -49,12 +52,27 @@
 
 ## 🎁 Prepare for Minecraft
 
-* [Download Minecraft with HMCL-PE](prepare-for-minecraft/download-minecraft-with-hmcl-pe.md)
-* [Download Forge/Fabric/Liteloader](prepare-for-minecraft/download-forge-fabric-liteloader.md)
-* [Download Optifine](prepare-for-minecraft/download-optifine.md)
-* [Download other minecraft resources](prepare-for-minecraft/download-other-minecraft-resources.md)
 * [Some tips about file location](prepare-for-minecraft/some-tips-about-file-location.md)
-* [Installing Modpack](prepare-for-minecraft/installing-modpack.md)
+* [Download](prepare-for-minecraft/download/README.md)
+  * [Download Minecraft with HMCL-PE](prepare-for-minecraft/download/download-minecraft-with-hmcl-pe.md)
+  * [Download Forge/Fabric/Liteloader](prepare-for-minecraft/download/download-forge-fabric-liteloader.md)
+  * [Download Optifine](prepare-for-minecraft/download/download-optifine.md)
+  * [Download Mods](prepare-for-minecraft/download/download-mods.md)
+  * [Download other minecraft resources](prepare-for-minecraft/download/download-other-minecraft-resources.md)
+* [Installing](prepare-for-minecraft/installing/README.md)
+  * [Installing Modpack](prepare-for-minecraft/installing/installing-modpack.md)
+  * [Installing Mods](prepare-for-minecraft/installing/installing-mods.md)
+  * [Install Forge/Fabric/Liteloader](prepare-for-minecraft/installing/install-forge-fabric-liteloader.md)
+  * [Install Optifine](prepare-for-minecraft/installing/install-optifine.md)
+* [Updates](prepare-for-minecraft/updates/README.md)
+  * [Mods Update](prepare-for-minecraft/updates/mods-update.md)
+
+## 🕹 Time to Play
+
+* [Play Minecraft](time-to-play/play-minecraft.md)
+* [HMCL-PE Control Layout Pattern](time-to-play/hmcl-pe-control-layout-pattern/README.md)
+  * [In-game Control Layout Pattern](time-to-play/hmcl-pe-control-layout-pattern/in-game-control-layout-pattern.md)
+  * [HMCL-PE setting interface modification](time-to-play/hmcl-pe-control-layout-pattern/hmcl-pe-setting-interface-modification.md)
 
 ## ❓ FAQ
 
@@ -63,3 +81,9 @@
 * [Q:Unclear rendering](faq/q-unclear-rendering.md)
 * [Q:Download always fails with HMCL-PE](faq/q-download-always-fails-with-hmcl-pe.md)
 * [Q:My HMCLPE folder is empty](faq/q-my-hmclpe-folder-is-empty.md)
+
+## 🤝 MOD Helper
+
+* [Introduction](mod-helper/introduction.md)
+* [Optimization MODS](mod-helper/optimization-mods.md)
+* [Incompatible Mods](mod-helper/incompatible-mods.md)

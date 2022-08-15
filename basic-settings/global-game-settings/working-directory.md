@@ -1,5 +1,7 @@
 # 📁 Working Directory
 
+Open the [Global game settings screen](./),find this:
+
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-15-25-55-71\_d17cc25ab2657fb.jpg)
 
 When you initially use HMCL-PE, it does not start version isolation.

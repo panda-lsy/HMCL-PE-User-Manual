@@ -4,6 +4,8 @@ description: Make the HMCL-PE fit your screen
 
 # Ignore notch
 
+Open the [Appearance Settings screen](./),find this:
+
 If your phone screen type is "norch", when you open HMCL-PE, a black part will appear on the left side of the phone, which looks very unattractive.
 
 ![Before](../../.gitbook/assets/qq\_pic\_merged\_1660464933676.jpg)
