@@ -78,12 +78,13 @@
   * [The Art of Asking Questions](time-to-play/game-crashed/the-art-of-asking-questions.md)
   * [Asking for Help](time-to-play/game-crashed/asking-for-help.md)
   * [Solve the problem yourself(WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
+* [HMCL-PE Crashed!(WIP)](time-to-play/hmcl-pe-crashed-wip.md)
 
 ## ❓ FAQ
 
 * [Q:Can't Install HMCL-PE APP](faq/q-cant-install-hmcl-pe-app.md)
 * [Q:Screen rendering errors](faq/q-screen-rendering-errors.md)
-* [Q:Unclear rendering](faq/q-unclear-rendering.md)
+* [Q:Unclear & Error In-game rendering](faq/q-unclear-and-error-in-game-rendering.md)
 * [Q:Download always fails with HMCL-PE](faq/q-download-always-fails-with-hmcl-pe.md)
 * [Q:My HMCLPE folder is empty](faq/q-my-hmclpe-folder-is-empty.md)
 * [Q:Cannot touch the items in item bar](faq/q-cannot-touch-the-items-in-item-bar.md)
