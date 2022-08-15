@@ -4,7 +4,7 @@ description: Temporary solution for some users who cannot download Jre17
 
 # JRE 17 Download
 
-### The official download address of HMCL-PE:
+### The official download  link of HMCL-PE:
 
 ****[**Download**](https://wwb.lanzoum.com/tp/i3BQX03sp64h)****
 
