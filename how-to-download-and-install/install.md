@@ -12,7 +12,7 @@ description: This lists the problems that can occur from installation to startup
 
 Just like any other app installation, you just need to click on the installation package file (.apk) and you can install it.
 
-
+After installed HMCL-PE,when you first open this APP,it will ask you to enable the Permission, **allow**.
 
 ## Common Problems
 

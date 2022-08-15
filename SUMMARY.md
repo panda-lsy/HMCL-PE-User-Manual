@@ -74,6 +74,10 @@
   * [Default button description](time-to-play/hmcl-pe-control-layout-pattern/default-button-description.md)
   * [In-game Control Layout Pattern](time-to-play/hmcl-pe-control-layout-pattern/in-game-control-layout-pattern.md)
   * [HMCL-PE setting interface modification](time-to-play/hmcl-pe-control-layout-pattern/hmcl-pe-setting-interface-modification.md)
+* [Game Crashed!](time-to-play/game-crashed/README.md)
+  * [The Art of Asking Questions](time-to-play/game-crashed/the-art-of-asking-questions.md)
+  * [Asking for Help](time-to-play/game-crashed/asking-for-help.md)
+  * [Solve the problem yourself(WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
 
 ## ❓ FAQ
 

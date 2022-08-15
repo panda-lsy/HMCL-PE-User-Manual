@@ -1,5 +1,9 @@
 # ⌨ Control Layout Pattern
 
+{% hint style="info" %}
+Since the manual author rarely uses this feature, there is very little content, so I'd appreciate it if you could add and contribute!
+{% endhint %}
+
 Open the [Global game settings screen](./),find this:
 
 You can manage the touch layout options that HMCL-PE gives you.
