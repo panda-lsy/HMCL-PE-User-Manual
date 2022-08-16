@@ -30,6 +30,9 @@ You have to compress and transfer the folder to the phone:
 * scripts(CraftTweaker Mod's recipe modification file)
 * saves
 * servers.dat(Server list file)
+* kubejs
+
+**But there is no need to move the `versions` folder**
 
 Finally, you just need to drag these files into your installed[ minecraft version folder](../some-tips-about-file-location.md)
 
