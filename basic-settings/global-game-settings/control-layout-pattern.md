@@ -19,7 +19,7 @@ You can click the Create button to create a new Control Layout Pattern
 You can change the touch layout options by clicking the “🖊” icon without opening the game.
 
 {% hint style="info" %}
-The specific settings will be mentioned below.
+The specific settings will be mentioned [below](../../time-to-play/hmcl-pe-control-layout-pattern/).
 {% endhint %}
 
 ### Share

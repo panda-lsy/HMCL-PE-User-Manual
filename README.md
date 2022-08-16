@@ -4,6 +4,6 @@ cover: .gitbook/assets/Lvnlef.jpg
 coverY: 0
 ---
 
-# 😘 Introduction
+# Introduction
 
 ###

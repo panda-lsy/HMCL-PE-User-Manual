@@ -1,11 +1,13 @@
 # Table of contents
 
-* [😘 Introduction](README.md)
-  * [HMCL-PE](introduction/hmcl-pe.md)
-  * [HMCL-PE User Manual](introduction/hmcl-pe-user-manual.md)
-  * [For Beginners](introduction/for-beginners.md)
+## 📜 Introduction
 
-## How to download & Install?
+* [Introduction](README.md)
+* [For Beginners](introduction/for-beginners.md)
+* [HMCL-PE](introduction/hmcl-pe.md)
+* [HMCL-PE User Manual](introduction/hmcl-pe-user-manual.md)
+
+## 🚀 How to download & Install?
 
 * [Download](how-to-download-and-install/download.md)
 * [Install](how-to-download-and-install/install.md)
@@ -80,12 +82,12 @@
   * [Use HMCL-PE Multiplayer Function](time-to-play/multiplayer/use-hmcl-pe-multiplayer-function.md)
   * [Online in the same Wifi](time-to-play/multiplayer/online-in-the-same-wifi.md)
   * [Buy a server](time-to-play/multiplayer/buy-a-server.md)
-* [Asking for Help](time-to-play/asking-for-help/README.md)
-  * [The Art of Asking Questions](time-to-play/asking-for-help/the-art-of-asking-questions.md)
-  * [Game Crashed!](time-to-play/asking-for-help/game-crashed/README.md)
-    * [Solve the problem yourself(WIP)](time-to-play/asking-for-help/game-crashed/solve-the-problem-yourself-wip.md)
+* [Asking for Help](time-to-play/game-crashed/asking-for-help.md)
+  * [The Art of Asking Questions](time-to-play/game-crashed/the-art-of-asking-questions.md)
+  * [Game Crashed!](time-to-play/game-crashed/README.md)
+    * [Solve the problem yourself(WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
     * [Launcher issues](time-to-play/asking-for-help/game-crashed/launcher-issues.md)
-  * [HMCL-PE Crashed!](time-to-play/asking-for-help/hmcl-pe-crashed.md)
+  * [HMCL-PE Crashed!](time-to-play/hmcl-pe-crashed-wip.md)
 
 ## ❓ FAQ
 
@@ -105,6 +107,9 @@
 
 ## 🤔 Asking questions by third-party software
 
-* [Github](asking-questions-by-third-party-software/github.md)
+* [Github](asking-questions-by-third-party-software/github/README.md)
+  * [Get your Github Account](asking-questions-by-third-party-software/github/get-your-github-account.md)
+  * [Submit an Issue](asking-questions-by-third-party-software/github/submit-an-issue.md)
+  * [Add Pull Requests(WIP)](asking-questions-by-third-party-software/github/add-pull-requests-wip.md)
 * [Discord](asking-questions-by-third-party-software/discord/README.md)
   * [How to use threads?](asking-questions-by-third-party-software/discord/how-to-use-threads.md)

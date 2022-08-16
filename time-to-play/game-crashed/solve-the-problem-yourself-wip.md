@@ -8,7 +8,7 @@
 
 For beginners, the first thing you can do is to start by looking at the bottom of the entire crash log, where there is a self-shaped table with all the modules that have been identified.
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Here we note the column with LCHI or LCHE on the left, each letter carries its own meaning
 
@@ -26,7 +26,7 @@ Here we note the column with LCHI or LCHE on the left, each letter carries its o
 
 ## Deeper Analysis
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Why is there also a place at the top that shows the mod where the error occurred, so if I look at it from the top will I get a more detailed answer?
 

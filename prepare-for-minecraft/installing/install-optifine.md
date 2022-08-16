@@ -1,5 +1,11 @@
 # Install Optifine
 
+{% hint style="danger" %}
+**Since 1.14.4, Optifine you need to check which Forge version it is compatible with, otherwise it may cause a crash.**
+
+You can go to the [official website](https://optifine.net/downloads), there is a corresponding Forge version on the right side of each version
+{% endhint %}
+
 ### Optifine installation using HMCL-PE <a href="#mod-loader-installation-using-hmcl-pe" id="mod-loader-installation-using-hmcl-pe"></a>
 
 To install Optifine using HMCL-PE, first you have to click on your game version in the main menu​​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC63FIAOMaTmGb9ehJkif%2Fuploads%2FBiVTiOgE0fTVvu14TdvI%2FScreenshot\_2022-08-15-14-51-35-56\_d17cc25ab2657fb.jpg?alt=media\&token=0cf6b71b-4f17-48de-8658-887076d0f489)​
