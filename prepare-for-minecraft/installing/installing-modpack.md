@@ -50,3 +50,20 @@ Attention:
 
 2.The server-side MOD may be different from the client-side MOD, which will not affect the content of your game, but may affect the play._Because Modpack authors may remove mods that have no effect on the server side, but play a supporting role on the client side when making the server side._
 {% endhint %}
+
+### I already have a full MODPACK
+
+You can download the corresponding minecraft version at HMCL-PE and drag the following contents from the downloaded Modpack to the Minecraft version folder.
+
+* config(Modpack authors change the game mechanics of the mod by modifying the Config file, which can cause the changed file to be different from the initial one.)
+* mods
+* resourcepacks
+* resources(Resource Loader Mod's resource file, usually used for language localization, and modifying the mod's resources.)
+* scripts(CraftTweaker Mod's recipe modification file)
+* saves
+* servers.dat(Server list file)
+
+{% hint style="info" %}
+This prevents HMCL-PE from scanning for version errors, or scanning for the wrong version of minecraft.
+{% endhint %}
+

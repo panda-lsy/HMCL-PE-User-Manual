@@ -10,11 +10,13 @@ description: The following content source official WIKI
 **HMCL-PE does not have a 32-bit version, you need to be patient.**
 {% endhint %}
 
+### Download Link
+
 There are two ways to download:
 
 1. [Github Downloads](https://github.com/Tungstend/HMCL-PE/releases)|Recommended
 
-**Device Configuration Requirements**
+### **Device Configuration Requirements**
 
 * [ ] Newest release downloaded. [Haven't? Download now.](https://github.com/Tungstend/HMCL-PE/releases)
 * [ ] 512 MB free space.

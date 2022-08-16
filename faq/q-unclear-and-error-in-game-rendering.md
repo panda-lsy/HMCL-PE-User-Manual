@@ -4,7 +4,7 @@
 
 ![the picture which the first player provided:UNCLEAR PROBLEM](../.gitbook/assets/Screenshot\_2022-08-14-13-38-22-46\_d17cc25ab2657fbd260b0454040eb4aa.jpg)
 
-![the picture which the second player provided:ERROR RENDERING](<../.gitbook/assets/image (2).png>)
+![the picture which the second player provided:ERROR RENDERING](<../.gitbook/assets/image (2) (2).png>)
 
 ### A1:Turn on Fast render and turn back it off
 

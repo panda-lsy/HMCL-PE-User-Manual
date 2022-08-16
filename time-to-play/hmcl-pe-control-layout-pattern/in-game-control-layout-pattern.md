@@ -84,9 +84,9 @@ When you enable Edit mode, click a button to start editing.
 
 **Switch touch mode:**Click to switch to building/attack mode
 
-**Open/Close gro:**Click to Open/Close gro
+**Open/Close gro:**Click to Open/Close gro,The view angle will rotate as you move your phone...VR?
 
-**Enable/Disable left half screen touch:**Click to Enable/Disable left half screen touch
+**Enable/Disable left half screen touch:**Click to Enable/Disable left half screen touch,You can't shake the view by touching the left half of the screen
 
 **Open text input box:**Click to Open your input pop-up window
 

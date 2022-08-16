@@ -70,15 +70,22 @@
 ## 🕹 Time to Play
 
 * [Play Minecraft](time-to-play/play-minecraft.md)
+* [HMCL-PE In-game Control Panel](time-to-play/hmcl-pe-in-game-control-panel.md)
 * [HMCL-PE Control Layout Pattern](time-to-play/hmcl-pe-control-layout-pattern/README.md)
   * [Default button description](time-to-play/hmcl-pe-control-layout-pattern/default-button-description.md)
   * [In-game Control Layout Pattern](time-to-play/hmcl-pe-control-layout-pattern/in-game-control-layout-pattern.md)
   * [HMCL-PE setting interface modification](time-to-play/hmcl-pe-control-layout-pattern/hmcl-pe-setting-interface-modification.md)
-* [Game Crashed!](time-to-play/game-crashed/README.md)
-  * [The Art of Asking Questions](time-to-play/game-crashed/the-art-of-asking-questions.md)
-  * [Asking for Help](time-to-play/game-crashed/asking-for-help.md)
-  * [Solve the problem yourself(WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
-* [HMCL-PE Crashed!(WIP)](time-to-play/hmcl-pe-crashed-wip.md)
+* [Multiplayer](time-to-play/multiplayer/README.md)
+  * [Go,Find a server](time-to-play/multiplayer/go-find-a-server.md)
+  * [Use HMCL-PE Multiplayer Function](time-to-play/multiplayer/use-hmcl-pe-multiplayer-function.md)
+  * [Online in the same Wifi](time-to-play/multiplayer/online-in-the-same-wifi.md)
+  * [Buy a server](time-to-play/multiplayer/buy-a-server.md)
+* [Asking for Help](time-to-play/asking-for-help/README.md)
+  * [The Art of Asking Questions](time-to-play/asking-for-help/the-art-of-asking-questions.md)
+  * [Game Crashed!](time-to-play/asking-for-help/game-crashed/README.md)
+    * [Solve the problem yourself(WIP)](time-to-play/asking-for-help/game-crashed/solve-the-problem-yourself-wip.md)
+    * [Launcher issues](time-to-play/asking-for-help/game-crashed/launcher-issues.md)
+  * [HMCL-PE Crashed!](time-to-play/asking-for-help/hmcl-pe-crashed.md)
 
 ## ❓ FAQ
 
@@ -88,9 +95,16 @@
 * [Q:Download always fails with HMCL-PE](faq/q-download-always-fails-with-hmcl-pe.md)
 * [Q:My HMCLPE folder is empty](faq/q-my-hmclpe-folder-is-empty.md)
 * [Q:Cannot touch the items in item bar](faq/q-cannot-touch-the-items-in-item-bar.md)
+* [Q:Need a key to enter HMCL-PE](faq/q-need-a-key-to-enter-hmcl-pe.md)
 
 ## 🤝 MOD Helper
 
 * [Introduction](mod-helper/introduction.md)
 * [Optimization MODS](mod-helper/optimization-mods.md)
 * [Incompatible Mods](mod-helper/incompatible-mods.md)
+
+## 🤔 Asking questions by third-party software
+
+* [Github](asking-questions-by-third-party-software/github.md)
+* [Discord](asking-questions-by-third-party-software/discord/README.md)
+  * [How to use threads?](asking-questions-by-third-party-software/discord/how-to-use-threads.md)

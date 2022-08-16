@@ -19,3 +19,5 @@ After installed HMCL-PE,when you first open this APP,it will ask you to enable t
 Click to view:
 
 [Q:Can't Install HMCL-PE APP](../faq/q-cant-install-hmcl-pe-app.md)
+
+[Q:Need a key to enter HMCL-PE](../faq/q-need-a-key-to-enter-hmcl-pe.md)

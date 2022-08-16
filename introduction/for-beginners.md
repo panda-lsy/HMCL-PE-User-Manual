@@ -1,6 +1,6 @@
 # For Beginners
 
-### **Requirements**
+## **Requirements**
 
 > ```
 > 1. Need a normal brain

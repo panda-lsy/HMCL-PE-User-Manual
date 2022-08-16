@@ -22,7 +22,7 @@ If you need more versions, please click on the button marked in red.
 
 If you can't stand the ads before the download, you can click (mirror) to use the mirror download. (It may be faster)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 {% hint style="info" %}
 Before you download it , please make sure you have a correct version of Forge installed on Minecraft.

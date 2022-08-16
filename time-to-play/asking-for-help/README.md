@@ -90,8 +90,34 @@ You can upload your files in Discord's "Support:#on-game-crash-report."
 
 You can also send files directly to #General for help. There are more people online there, but not all of them may be able to answer your questions.
 
+#### This is a tutorial from the official Discord:
+
+> #### Summary
+>
+> \* **Navigate to the help channel** which best suits the nature of your issue&#x20;
+>
+> \* **Open a thread** describing the issue with as much pertinent detail as possible e.g
+>
+> * Relevant information from your logs
+> * When was the issue first observed,was there a time recently when the issue did not exist, what has changed since
+> * What tutorials or help have you already tried
+>
+> \***When your issue has been solved**, **please post** :heavy\_check\_mark: **as the final message in the thread**, and archive the thread
+>
+> **\*Do not beg for help** - when someone who is familiar with your ssue is available to offer assistance they will do so. Do not ping members for assistance without their prior consent. Please be patient.
+>
+> **\*Do not cross post in seeking assistance**
+>
+> \*We do not represent Canonical, we cannot provide "official" support or log your bugs
+
+#### What are threads and how do we use them?
+
+You can click on the [links](../../asking-questions-by-third-party-software/discord/how-to-use-threads.md) to jump to the [official tutorials](../../asking-questions-by-third-party-software/discord/how-to-use-threads.md) included in the manual.
+
+You can also get the tutorial in Discord under ["Support:#readme"](https://discord.com/channels/995291757799538688/1003984509412315166).
+
 {% hint style="danger" %}
-Note: Please do not copy the content of the file and paste it, this will not only lead to untidy content, but will also take up a lot of your chat space
+Note: Please do not copy the content of the file and paste it in Discord, this will not only lead to untidy content, but will also take up a lot of your chat space
 {% endhint %}
 
 _**``**_
