@@ -18,7 +18,7 @@
 
 ### Interface Introduction.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 Title:The name or main content of the issue
 
