@@ -19,8 +19,8 @@
 
 * [更改语言](ji-chu-she-zhi/language.md)
 * [全局游戏设定](ji-chu-she-zhi/global-game-settings/README.md)
-  * [☕ Java Path](ji-chu-she-zhi/global-game-settings/java-path.md)
-  * [📁 Working Directory](ji-chu-she-zhi/global-game-settings/working-directory.md)
+  * [☕ Java路径](ji-chu-she-zhi/global-game-settings/java-path.md)
+  * [📁 工作路径](ji-chu-she-zhi/global-game-settings/working-directory.md)
   * [💻 Memory](ji-chu-she-zhi/global-game-settings/memory.md)
   * [👀 Resolution](ji-chu-she-zhi/global-game-settings/resolution.md)
   * [⌨ Control Layout Pattern](ji-chu-she-zhi/global-game-settings/control-layout-pattern.md)
@@ -104,8 +104,8 @@
 ## 🤝 MOD Helper
 
 * [Introduction](mod-helper/introduction.md)
-* [Optimization MODS](mod-helper/optimization-mods.md)
-* [Incompatible Mods](mod-helper/incompatible-mods.md)
+* [优化模组列表](mod-helper/optimization-mods.md)
+* [可能不兼容的模组](mod-helper/incompatible-mods.md)
 
 ## 🤔 Asking questions by third-party software
 
