@@ -2,14 +2,16 @@
 
 ## 📜 主要介绍
 
-* [主要介绍](README.md)
-* [新人须知](zhu-yao-jie-shao/for-beginners.md)
+* [新人须知](README.md)
 * [HMCL-PE](zhu-yao-jie-shao/hmcl-pe.md)
+* [主要介绍](<README (1).md>)
 * [HMCL-PE 用户手册](zhu-yao-jie-shao/hmcl-pe-user-manual.md)
+* [对手册撰写作贡献](zhu-yao-jie-shao/dui-shou-ce-zhuan-xie-zuo-gong-xian.md)
+* [HMCL-PE 用户手册更新日志](zhu-yao-jie-shao/hmclpe-yong-hu-shou-ce-geng-xin-ri-zhi.md)
 
 ## 🚀 下载&安装
 
-* [Download](xia-zai-an-zhuang/download.md)
+* [下载](xia-zai-an-zhuang/download.md)
 * [Install](xia-zai-an-zhuang/install.md)
 * [JRE 17 Download](xia-zai-an-zhuang/jre-17-download.md)
 
@@ -31,7 +33,7 @@
   * [⚙ Download Settings](basic-settings/download/download-settings.md)
   * [🚀 Multi-threaded download](basic-settings/download/multi-threaded-download.md)
 
-## 🙎♂ 🙎♂ Accounts
+## 🙎♂ 🙎♂ 🙎♂ Accounts
 
 * [Add an account](accounts/add-an-account/README.md)
   * [Authentication Server Login](accounts/add-an-account/authentication-server-login/README.md)

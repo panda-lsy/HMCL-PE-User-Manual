@@ -1,27 +1,22 @@
----
-description: 这一部分主要讲述HMCL-PE和用户手册。
-cover: .gitbook/assets/Lvnlef.jpg
-coverY: 0
----
+# 新人须知
 
-# 主要介绍
+## **需求**
 
-## 语言支持
+> ```
+> 1. 正常的大脑
+>
+> 2. 正常的视力
+>
+> 3. 正常的听觉
+>
+> 4. 安卓的手机
+>
+> 5. 最新版的HMCL-PE软件
+> ```
 
-你可以在这里更改你的`HMCL-PE`**用户手册**语言:
+**在手册的帮助下，你只需要一双手和一部安卓手机就可以开始使用HMCL-PE了**
 
-{% hint style="info" %}
-**所有其他语言在开始时都是英语，需要由社区中的每个人进行翻译**
-{% endhint %}
+_****_
 
-* ### [English](https://mc-shengxia.gitbook.io/hmcl-pe-user-manual-en/introduction)
-* ### [简体中文](https://mc-shengxia.gitbook.io/hmclpe-yong-hu-shi-yong-shou-ce/)
-* ### [Bahasa Indonesia](https://mc-shengxia.gitbook.io/hmcl-pe-panduan-pengguna/)
-* ### [日本語 (にほんご)](https://mc-shengxia.gitbook.io/hmcl-pe-yzmanyuaru/)
-* ### [русский язык](https://mc-shengxia.gitbook.io/hmcl-pe-rukovodstva-polzovatelya/)
+HMCL-PEQQ群号715191324，如果想要最新的更新进度和资源可以加入内测群，加入内测群前要在启动画面上赞助10元以上。
 
-## 手册版本:1.0.0a
-
-{% hint style="info" %}
-手册版本是为了方便贡献者在将手册翻译成其他语言之前需要校对的内容。这样可以避免主版本被更新，但其他语言版本仍然只有旧的内容。
-{% endhint %}

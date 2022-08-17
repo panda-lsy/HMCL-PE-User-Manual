@@ -20,9 +20,9 @@ Next, we will use the installation of RL-Craft as an example to install a Modpac
 
 **Modloader Version:**If it is a Forge modpack and the author does not specify the Forge version, please download the latest Forge version in the corresponding minecraft version.(The same is true if it is a Fabric.)
 
-![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (8).png>)
+![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (8) (1).png>)
 
-![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (7).png>)
+![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (7) (1).png>)
 
 ### 2.Back to HMCLPE,Go to the download page
 
@@ -121,7 +121,7 @@ Attention:
 
 Click to download.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 Then,You have to unzip your file the phone.
 

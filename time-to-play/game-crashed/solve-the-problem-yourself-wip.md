@@ -26,7 +26,7 @@ Here we note the column with LCHI or LCHE on the left, each letter carries its o
 
 ## Deeper Analysis
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 Why is there also a place at the top that shows the mod where the error occurred, so if I look at it from the top will I get a more detailed answer?
 

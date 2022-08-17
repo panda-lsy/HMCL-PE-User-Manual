@@ -22,7 +22,7 @@ Back to Blessingskin [user page](https://skin.prinzeugen.net/user)
 
 Scroll down the page to find here
 
-![](<../../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 <pre><code><strong>https://skin.prinzeugen.net/api/yggdrasil</strong></code></pre>
 
