@@ -10,9 +10,9 @@ If you want to use it, you need to install it in the server side and the client 
 
 It supports many versions of the game:
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 If you want to use the new version of CustomSkinLoader in version 1.7.10, you need to add this mod:[Compatibility Layer For CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/compatibilitylayerforcustomskinloader)
 

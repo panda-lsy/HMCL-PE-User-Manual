@@ -18,7 +18,7 @@ remember your port number
 
 and then [open](../hmcl-pe-in-game-control-panel.md) the [HMCL-PE Control panel](../hmcl-pe-in-game-control-panel.md), open the online module menu,&#x20;
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 click to create the room, confirm the displayed port number and tour The scene prompts consistent,and then confirm the room and open the room.
 

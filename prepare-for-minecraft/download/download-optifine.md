@@ -24,11 +24,11 @@ You need to download it from the [official website](https://optifine.net/downloa
 
 If you need more versions, please click on the button marked in red.
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](../../.gitbook/assets/image.png)
 
 If you can't stand the ads before the download, you can click (mirror) to use the mirror download. (It may be faster)
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 {% hint style="info" %}
 Before you download it , please make sure you have a correct version of Forge installed on Minecraft.
