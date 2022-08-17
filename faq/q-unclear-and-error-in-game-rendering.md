@@ -6,10 +6,8 @@
 
 ![the picture which the second player provided:ERROR RENDERING](<../.gitbook/assets/image (2) (1).png>)
 
-### A1:Turn on Fast render and turn back it off
+### A1:Use this [beta version](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk) provided by[ LegacyGamerHD ](https://github.com/LegacyGamerHD)
 
-### A2:Just use resourcepacks
-
-{% hint style="danger" %}
-**There is no accurate answer to this question yet, if you have tried everything to no avail, please go to Github and submit** [**Issue**](https://github.com/Tungstend/HMCL-PE/issues)**.**
+{% hint style="success" %}
+**This software is not 32 bit yet and it is unsigned, if you want to install it you can click download, meanwhile this is a beta version and **_**LegacyGamerHD**_** needs beta testers.You can send your game FPS to him using Discord.**
 {% endhint %}
