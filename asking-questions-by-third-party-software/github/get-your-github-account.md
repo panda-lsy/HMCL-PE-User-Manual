@@ -26,11 +26,11 @@ Enter your username here, and if available, you can tap the Continue button.
 
 Optional Features
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 Verify that you are a human
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 Click "Create account" button to create an account.
 

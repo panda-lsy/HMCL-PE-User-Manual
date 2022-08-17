@@ -27,7 +27,7 @@ Write: You can add more details here.
 {% hint style="info" %}
 Because writing a nice issue requires learning Markdown syntax, and there are many people who have not come across it, You can get a quick start here
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 {% endhint %}
 
 Preview: **After you write an Issue you need to preview it to see if it's neat and tidy.**

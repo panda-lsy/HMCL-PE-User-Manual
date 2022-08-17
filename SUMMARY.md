@@ -6,6 +6,8 @@
 * [For Beginners](introduction/for-beginners.md)
 * [HMCL-PE](introduction/hmcl-pe.md)
 * [HMCL-PE User Manual](introduction/hmcl-pe-user-manual.md)
+* [Contribute to manual](introduction/contribute-to-manual.md)
+* [HMCL-PE User Manual Changelogs](introduction/hmcl-pe-user-manual-changelogs.md)
 
 ## 🚀 How to download & Install?
 
@@ -31,7 +33,7 @@
   * [⚙ Download Settings](basic-settings/download/download-settings.md)
   * [🚀 Multi-threaded download](basic-settings/download/multi-threaded-download.md)
 
-## 🙎♂ Accounts
+## 🙎♂ 🙎♂ Accounts
 
 * [Add an account](accounts/add-an-account/README.md)
   * [Authentication Server Login](accounts/add-an-account/authentication-server-login/README.md)

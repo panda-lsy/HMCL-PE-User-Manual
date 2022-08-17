@@ -121,7 +121,7 @@ Attention:
 
 Click to download.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 Then,You have to unzip your file the phone.
 
