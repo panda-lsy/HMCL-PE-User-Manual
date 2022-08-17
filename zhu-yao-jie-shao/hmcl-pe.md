@@ -1,18 +1,18 @@
 # HMCL-PE
 
-## **What is HMCL-PE?**
+## **什么是HMCL-PE?**
 
-HMCL-PE is a free, open source Minecraft launcher that allows players to easily and quickly install, manage, and run the game. Your sponsorship will help HMCL-PE to get better and faster updates.&#x20;
+HMCL-PE是一个免费的、开源的Minecraft启动器，允许玩家轻松快速地安装、管理和运行游戏。您的赞助将帮助HMCL-PE获得更好、更快的更新。
 
 ## License
 
-The software is distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
+该软件在 [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) 下发布
 
-## Compilation
+## 汇编
 
 Run link.bat first
 
-## Third party components
+## 第三方鸣谢
 
 [HMCL](https://github.com/huanghongxun/HMCL)
 
@@ -30,6 +30,6 @@ Run link.bat first
 
 [TouchInjector](https://github.com/Tungstend/TouchInjector)
 
-## Sponsor
+## 支持
 
 [爱发电](https://afdian.net/@tungs)

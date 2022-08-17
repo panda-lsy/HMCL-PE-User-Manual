@@ -1,17 +1,17 @@
 # Table of contents
 
-## 📜 Introduction
+## 📜 主要介绍
 
-* [Introduction](README.md)
-* [For Beginners](introduction/for-beginners.md)
-* [HMCL-PE](introduction/hmcl-pe.md)
-* [HMCL-PE User Manual](introduction/hmcl-pe-user-manual.md)
+* [主要介绍](README.md)
+* [新人须知](zhu-yao-jie-shao/for-beginners.md)
+* [HMCL-PE](zhu-yao-jie-shao/hmcl-pe.md)
+* [HMCL-PE 用户手册](zhu-yao-jie-shao/hmcl-pe-user-manual.md)
 
-## 🚀 How to download & Install?
+## 🚀 下载&安装
 
-* [Download](how-to-download-and-install/download.md)
-* [Install](how-to-download-and-install/install.md)
-* [JRE 17 Download](how-to-download-and-install/jre-17-download.md)
+* [Download](xia-zai-an-zhuang/download.md)
+* [Install](xia-zai-an-zhuang/install.md)
+* [JRE 17 Download](xia-zai-an-zhuang/jre-17-download.md)
 
 ## 🔧 Basic Settings
 
@@ -82,12 +82,12 @@
   * [Use HMCL-PE Multiplayer Function](time-to-play/multiplayer/use-hmcl-pe-multiplayer-function.md)
   * [Online in the same Wifi](time-to-play/multiplayer/online-in-the-same-wifi.md)
   * [Buy a server](time-to-play/multiplayer/buy-a-server.md)
-* [Asking for Help](time-to-play/asking-for-help/README.md)
-  * [The Art of Asking Questions](time-to-play/asking-for-help/the-art-of-asking-questions.md)
-  * [Game Crashed!](time-to-play/asking-for-help/game-crashed/README.md)
-    * [Solve the problem yourself(WIP)](time-to-play/asking-for-help/game-crashed/solve-the-problem-yourself-wip.md)
+* [Asking for Help](time-to-play/game-crashed/asking-for-help.md)
+  * [The Art of Asking Questions](time-to-play/game-crashed/the-art-of-asking-questions.md)
+  * [Game Crashed!](time-to-play/game-crashed/README.md)
+    * [Solve the problem yourself(WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
     * [Launcher issues](time-to-play/asking-for-help/game-crashed/launcher-issues.md)
-  * [HMCL-PE Crashed!](time-to-play/asking-for-help/hmcl-pe-crashed-wip.md)
+  * [HMCL-PE Crashed!](time-to-play/hmcl-pe-crashed-wip.md)
 
 ## ❓ FAQ
 
