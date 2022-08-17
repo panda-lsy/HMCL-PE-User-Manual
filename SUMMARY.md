@@ -33,7 +33,7 @@
   * [⚙ Download Settings](basic-settings/download/download-settings.md)
   * [🚀 Multi-threaded download](basic-settings/download/multi-threaded-download.md)
 
-## 🙎♂ 🙎♂ Accounts
+## 🙎♂ Accounts
 
 * [Add an account](accounts/add-an-account/README.md)
   * [Authentication Server Login](accounts/add-an-account/authentication-server-login/README.md)

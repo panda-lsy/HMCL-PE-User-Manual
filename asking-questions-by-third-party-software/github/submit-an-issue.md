@@ -2,7 +2,7 @@
 
 ### Find a repositories and go to the Issues section.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 ### Click on the New Issue button
 
@@ -12,7 +12,7 @@
 
 #### If you **want to** submit an [Issue](https://github.com/Tungstend/HMCL-PE/issues) to `HMCL-PE`, you need to refer to the following format:
 
-****[**Link**](../../time-to-play/game-crashed/asking-for-help.md#committing-issues-to-github)****
+[**Link**](../../time-to-play/game-crashed/asking-for-help.md#committing-issues-to-github)
 
 #### If you **want to** submit an [Issue](https://github.com/panda-lsy/HMCL-PE-User-Manual/issues/new) to `HMCL-PE User Manual`, you don't need much formatting, you just need to make sure to communicate in English or Chinese.
 
@@ -27,7 +27,7 @@ Write: You can add more details here.
 {% hint style="info" %}
 Because writing a nice issue requires learning Markdown syntax, and there are many people who have not come across it, You can get a quick start here
 
-![](<../../.gitbook/assets/image (4).png>)
+<img src="../../.gitbook/assets/image (4) (2).png" alt="" data-size="original">
 {% endhint %}
 
 Preview: **After you write an Issue you need to preview it to see if it's neat and tidy.**
