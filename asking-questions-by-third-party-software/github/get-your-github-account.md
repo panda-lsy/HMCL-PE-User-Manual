@@ -14,7 +14,7 @@ Click the "Sign up for Github" button
 
 After waiting for an animation, enter your email here.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Enter your password here.(Not the password to log in to your email, but the password you will use to log in to GitHub later.)
 
@@ -22,15 +22,15 @@ Enter your password here.(Not the password to log in to your email, but the pass
 
 Enter your username here, and if available, you can tap the Continue button.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Optional Features
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 Verify that you are a human
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Click "Create account" button to create an account.
 

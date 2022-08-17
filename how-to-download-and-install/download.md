@@ -12,7 +12,7 @@ description: You can download HMCL-PE here.
 
 ### Official Releases:
 
-#### ****[**Github Releases**](https://github.com/Tungstend/HMCL-PE/releases)**(Click to see\&download all HMCL-PE Releases)**
+#### [**Github Releases**](https://github.com/Tungstend/HMCL-PE/releases)**(Click to see\&download all HMCL-PE Releases)**
 
 #### [Direct Download link](https://github.com/Tungstend/HMCL-PE/releases/download/22.8.8-update/HMCLPE-release.apk)(Version:22.8.8-update-1.0.0)
 
@@ -22,10 +22,10 @@ The Direct Download link does not necessarily mean the **latest version**. The m
 
 ### Beta version(provided by[ LegacyGamerHD](https://github.com/LegacyGamerHD)):
 
-#### ****[**DIRECTLink**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(Click link to download)**
+#### [**DIRECTLink**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(Click link to download)**
 
 {% hint style="success" %}
-**This software is not 32 bit yet and it is unsigned, if you want to install it you can click download, meanwhile this is a beta version and **_**LegacyGamerHD**_** needs beta testers.You can send your game FPS to him using Discord.**
+**This software is not 32 bit yet and it is unsigned, if you want to install it you can click download, meanwhile this is a beta version and \_LegacyGamerHD**\_\*\* needs beta testers.You can send your game FPS to him using Discord.\*\*
 {% endhint %}
 
 ## **Device Configuration Requirements**

@@ -14,11 +14,11 @@ You can change HMCL-PE User Manual's language Here:
 **All other languages were English at the beginning and needed to be translated by everyone in the community**
 {% endhint %}
 
-* ### [English](https://mc-shengxia.gitbook.io/hmcl-pe-user-manual-en/introduction)
-* ### [简体中文](https://mc-shengxia.gitbook.io/hmclpe-yong-hu-shi-yong-shou-ce/)
-* ### [Bahasa Indonesia](https://mc-shengxia.gitbook.io/hmcl-pe-panduan-pengguna/)
-* ### [日本語 (にほんご)](https://mc-shengxia.gitbook.io/hmcl-pe-yzmanyuaru/)
-* ### [русский язык](https://mc-shengxia.gitbook.io/hmcl-pe-rukovodstva-polzovatelya/)
+* #### [English](https://mc-shengxia.gitbook.io/hmcl-pe-user-manual-en/introduction)
+* #### [简体中文](https://mc-shengxia.gitbook.io/hmclpe-yong-hu-shi-yong-shou-ce/)
+* #### [Bahasa Indonesia](https://mc-shengxia.gitbook.io/hmcl-pe-panduan-pengguna/)
+* #### [日本語 (にほんご)](https://mc-shengxia.gitbook.io/hmcl-pe-yzmanyuaru/)
+* #### [русский язык](https://mc-shengxia.gitbook.io/hmcl-pe-rukovodstva-polzovatelya/)
 
 ## Manual version:1.0.0b
 

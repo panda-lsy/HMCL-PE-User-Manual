@@ -2,13 +2,13 @@
 
 > If you can't find a crash report when a crash occurs, it's better to say "I've crashed and what to do" than to go to the street and find a fortune teller to figure out why it crashed, so where to find them?
 >
-> &#x20;                                                                                                                                           \--943
+> \--943
 
 ## Check Modlist
 
 For beginners, the first thing you can do is to start by looking at the bottom of the entire crash log, where there is a self-shaped table with all the modules that have been identified.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 Here we note the column with LCHI or LCHE on the left, each letter carries its own meaning
 
@@ -26,7 +26,7 @@ Here we note the column with LCHI or LCHE on the left, each letter carries its o
 
 ## Deeper Analysis
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 Why is there also a place at the top that shows the mod where the error occurred, so if I look at it from the top will I get a more detailed answer?
 
@@ -71,4 +71,3 @@ Solution: Increase your RAM allocation
 #### both Server\&Client
 
 Solution: Find the "-- Block being ticked --" section, learn the block coordinates, and use some methods to remove the block
-
