@@ -6,6 +6,8 @@
 * [For Beginners](introduction/for-beginners.md)
 * [HMCL-PE](introduction/hmcl-pe.md)
 * [HMCL-PE User Manual](introduction/hmcl-pe-user-manual.md)
+* [Contribute to manual](introduction/contribute-to-manual.md)
+* [HMCL-PE User Manual Changelogs](introduction/hmcl-pe-user-manual-changelogs.md)
 
 ## 🚀 How to download & Install?
 
