@@ -16,9 +16,7 @@
 
 _**With the help of the manual, all you need is a pair of hands and an Android phone to get started with the HMCL-PE**_
 
-_****_
-
-HMCL-PE public QQ group 715191324, the latest update progress and resources can join the beta test group, to join the beta test group before the start-up screen to sponsor 10 yuan or more**.**QQ is a communication APP, just like Discord, you can use it to communicate with others, but it might get someting wrong, because it is set for chinese, most of servers are in China, Network-Problem i think, so if you want to conact with us without network confing, please use Github Issues
+HMCL-PE public QQ group 715191324, the latest update progress and resources can join the beta test group, to join the beta test group before the start-up screen to sponsor 10 yuan or more\*\*.\*\*QQ is a communication APP, just like Discord, you can use it to communicate with others, but it might get someting wrong, because it is set for chinese, most of servers are in China, Network-Problem i think, so if you want to conact with us without network confing, please use Github Issues
 
 If you want to talk to the author in depth,you can try QQ.
 
