@@ -1,4 +1,4 @@
-# Add an account
+# 添加账户
 
 ### **You have three ways to create an account to play minecraft**
 
