@@ -4,7 +4,7 @@ After downloading minecraft, you need to determine exactly where your version fi
 
 ### Version Isolation
 
-**To set up, please click** [**here**](../basic-settings/global-game-settings/working-directory.md)****
+**To set up, please click** [**here**](../ji-chu-she-zhi/global-game-settings/working-directory.md)****
 
 If you have version isolation enabled, your individual version folders will be
 

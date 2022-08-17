@@ -12,7 +12,7 @@ There may be some problems with MODS downloads, so I will briefly explain how to
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-15-14-33-12-22\_d17cc25ab2657fb.jpg)
 
-**Games:**Your minecraft version name, and if you have [version isolation](../../basic-settings/global-game-settings/working-directory.md) turned on, you can freely switch the target version folder you downloaded to.
+**Games:**Your minecraft version name, and if you have [version isolation](../../ji-chu-she-zhi/global-game-settings/working-directory.md) turned on, you can freely switch the target version folder you downloaded to.
 
 **Download Source:**The source of the Mod you downloaded.
 

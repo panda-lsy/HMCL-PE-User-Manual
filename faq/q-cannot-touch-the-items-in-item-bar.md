@@ -1,6 +1,6 @@
 # Q:Cannot touch the items in item bar
 
-### A:You need to change the [Resolution](../basic-settings/global-game-settings/resolution.md).Turn it up, the exact value you need to try yourself...
+### A:You need to change the [Resolution](../ji-chu-she-zhi/global-game-settings/resolution.md).Turn it up, the exact value you need to try yourself...
 
 {% hint style="info" %}
 You can use the dichotomy method:

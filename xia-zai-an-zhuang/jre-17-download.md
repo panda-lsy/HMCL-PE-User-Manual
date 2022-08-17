@@ -2,9 +2,9 @@
 description: Temporary solution for some users who cannot download Jre17
 ---
 
-# JRE 17 Download
+# 下载JRE 17
 
-## JRE 17 HMCL-PE's Official Download  link:
+## JRE 17 HMCL-PE官方直链:
 
 ### **JRE17 No Cert:**[**Download**](https://github.com/Tungstend/HMCL-PE/releases/download/Java17-noCert/JRE17.zip)****
 

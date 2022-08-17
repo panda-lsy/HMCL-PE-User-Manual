@@ -4,7 +4,7 @@
 
 You now have three ways to contribute to the writing of the manual.
 
-* ****[**Translate**](<../README (1).md#language-support>) content into your own language
+* ****[**Translate**](../#language-support) content into your own language
 * Report a content error, submit [**Issue**](https://github.com/panda-lsy/HMCL-PE-User-Manual/issues) on Github
 * Submit new content using [**Pull Request**](https://github.com/panda-lsy/HMCL-PE-User-Manual/pulls)****
 

@@ -1,23 +1,23 @@
 ---
-description: This lists the problems that can occur from installation to startup.
+description: 这里列出了从安装到启动可能出现的问题。
 ---
 
-# Install
+# 安装
 
 {% hint style="info" %}
-**Good to know:** If there are problems with the installation, please go to Github and submit [Issues](https://github.com/Tungstend/HMCL-PE/issues) to the author
+如果安装时有问题，请到Github上向作者提交[Issues](https://github.com/Tungstend/HMCL-PE/issues)。
 {% endhint %}
 
-## How?
+## 怎么安装?
 
-Just like any other app installation, you just need to click on the installation package file (.apk) and you can install it.
+就像其他应用程序的安装一样，你只需要点击安装包文件（.apk）就可以安装。
 
-After installed HMCL-PE,when you first open this APP,it will ask you to enable the Permission, **allow**.
+安装了HMCL-PE之后，当你第一次打开这个软件时，它会要求你启用权限，**允许**。
 
-## Common Problems
+## 常见问题
 
-Click to view:
+**点击浏览**
 
-[Q:Can't Install HMCL-PE APP](../faq/q-cant-install-hmcl-pe-app.md)
+****[**Q:无法安装HMCL-PE软件**](../faq/q-cant-install-hmcl-pe-app.md)****
 
-[Q:Need a key to enter HMCL-PE](../faq/q-need-a-key-to-enter-hmcl-pe.md)
+****[**Q:进入HMCL-PE需要密码**](../faq/q-need-a-key-to-enter-hmcl-pe.md)****

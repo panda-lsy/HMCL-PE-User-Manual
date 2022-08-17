@@ -4,4 +4,4 @@ Its modification method is almost the same as the in-game hover window modificat
 
 The only difference is that you need to find the modification screen on the home page of HMCL-PE
 
-You can skip to [this section](../../basic-settings/global-game-settings/control-layout-pattern.md) to get the way to find it:[Here](../../basic-settings/global-game-settings/control-layout-pattern.md)
+You can skip to [this section](../../ji-chu-she-zhi/global-game-settings/control-layout-pattern.md) to get the way to find it:[Here](../../ji-chu-she-zhi/global-game-settings/control-layout-pattern.md)

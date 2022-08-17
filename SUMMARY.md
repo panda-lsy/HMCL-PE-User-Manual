@@ -2,9 +2,9 @@
 
 ## 📜 主要介绍
 
-* [新人须知](README.md)
+* [主要介绍](README.md)
+* [新人须知](<README (1).md>)
 * [HMCL-PE](zhu-yao-jie-shao/hmcl-pe.md)
-* [主要介绍](<README (1).md>)
 * [HMCL-PE 用户手册](zhu-yao-jie-shao/hmcl-pe-user-manual.md)
 * [对手册撰写作贡献](zhu-yao-jie-shao/dui-shou-ce-zhuan-xie-zuo-gong-xian.md)
 * [HMCL-PE 用户手册更新日志](zhu-yao-jie-shao/hmclpe-yong-hu-shou-ce-geng-xin-ri-zhi.md)
@@ -12,26 +12,26 @@
 ## 🚀 下载&安装
 
 * [下载](xia-zai-an-zhuang/download.md)
-* [Install](xia-zai-an-zhuang/install.md)
-* [JRE 17 Download](xia-zai-an-zhuang/jre-17-download.md)
+* [安装](xia-zai-an-zhuang/install.md)
+* [下载JRE 17](xia-zai-an-zhuang/jre-17-download.md)
 
-## 🔧 Basic Settings
+## 🔧 基础设置
 
-* [Language](basic-settings/language.md)
-* [Global game settings](basic-settings/global-game-settings/README.md)
-  * [☕ Java Path](basic-settings/global-game-settings/java-path.md)
-  * [📁 Working Directory](basic-settings/global-game-settings/working-directory.md)
-  * [💻 Memory](basic-settings/global-game-settings/memory.md)
-  * [👀 Resolution](basic-settings/global-game-settings/resolution.md)
-  * [⌨ Control Layout Pattern](basic-settings/global-game-settings/control-layout-pattern.md)
-  * [🎮 Launch & Renderer Options](basic-settings/global-game-settings/launch-and-renderer-options.md)
-* [Appearance](basic-settings/appearance/README.md)
-  * [Theme](basic-settings/appearance/theme.md)
-  * [Ignore notch](basic-settings/appearance/ignore-notch.md)
-  * [Background Image](basic-settings/appearance/background-image.md)
-* [Download](basic-settings/download/README.md)
-  * [⚙ Download Settings](basic-settings/download/download-settings.md)
-  * [🚀 Multi-threaded download](basic-settings/download/multi-threaded-download.md)
+* [更改语言](ji-chu-she-zhi/language.md)
+* [全局游戏设定](ji-chu-she-zhi/global-game-settings/README.md)
+  * [☕ Java Path](ji-chu-she-zhi/global-game-settings/java-path.md)
+  * [📁 Working Directory](ji-chu-she-zhi/global-game-settings/working-directory.md)
+  * [💻 Memory](ji-chu-she-zhi/global-game-settings/memory.md)
+  * [👀 Resolution](ji-chu-she-zhi/global-game-settings/resolution.md)
+  * [⌨ Control Layout Pattern](ji-chu-she-zhi/global-game-settings/control-layout-pattern.md)
+  * [🎮 Launch & Renderer Options](ji-chu-she-zhi/global-game-settings/launch-and-renderer-options.md)
+* [Appearance](ji-chu-she-zhi/appearance/README.md)
+  * [Theme](ji-chu-she-zhi/appearance/theme.md)
+  * [Ignore notch](ji-chu-she-zhi/appearance/ignore-notch.md)
+  * [Background Image](ji-chu-she-zhi/appearance/background-image.md)
+* [Download](ji-chu-she-zhi/download/README.md)
+  * [⚙ Download Settings](ji-chu-she-zhi/download/download-settings.md)
+  * [🚀 Multi-threaded download](ji-chu-she-zhi/download/multi-threaded-download.md)
 
 ## 🙎♂ Accounts
 

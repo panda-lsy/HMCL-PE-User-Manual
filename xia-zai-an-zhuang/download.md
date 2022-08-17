@@ -1,38 +1,34 @@
----
-description: The following content source official WIKI
----
-
 # 下载
 
 {% hint style="danger" %}
-**HMCL-PE does not have a 32-bit version, you need to be patient.**
+**HMCL-PE目前没有32位软件包，请耐心等待。**
 {% endhint %}
 
-## Download Link
+## 下载链接
 
-### Official Releases:
+### 官方版本:
 
-#### ****[**Github Releases**](https://github.com/Tungstend/HMCL-PE/releases)**(Click to see\&download all HMCL-PE Releases)**
+#### ****[**Github发行版本列表**](https://github.com/Tungstend/HMCL-PE/releases)**(点击查看/下载)**
 
-#### [Direct Download link](https://github.com/Tungstend/HMCL-PE/releases/download/22.8.8-update/HMCLPE-release.apk)(Version:22.8.8-update-1.0.0)
+#### [下载直链](https://github.com/Tungstend/HMCL-PE/releases/download/22.8.8-update/HMCLPE-release.apk)(点击下载Version:22.8.8-update-1.0.0)
 
 {% hint style="warning" %}
-The Direct Download link does not necessarily mean the **latest version**. The manual author cannot be online on a weekday, which means that the manual **will not receive the latest HMCL-PE version on time**. If it is convenient, please also go to [**Releases**](https://github.com/Tungstend/HMCL-PE/releases) to check all versions and download the latest version.
+下载直链不一定是最新的版本。手册作者周一到周五不一定在线，这意味着手册不能按时收到最新的HMCL-PE版本。如果方便的话，也请到[**Releases**](https://github.com/Tungstend/HMCL-PE/releases)查看所有版本并下载最新版本。
 {% endhint %}
 
-### Beta version(provided by[ LegacyGamerHD](https://github.com/LegacyGamerHD)):
+### 测试版([LegacyGamerHD](https://github.com/LegacyGamerHD)提供):
 
-#### ****[**DIRECTLink**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(Click link to download)**
+#### ****[**下载直链**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(点击下载,可能需要工具)**
 
 {% hint style="success" %}
-**This software is not 32 bit yet and it is unsigned, if you want to install it you can click download, meanwhile this is a beta version and **_**LegacyGamerHD**_** needs beta testers.You can send your game FPS to him using Discord.**
+**这个软件还不是32位的，也没有签名，如果你想安装，可以点击下载，同时这是一个测试版，LegacyGamerHD需要测试者。你可以用Discord把你的游戏FPS发给他。**
 {% endhint %}
 
-## **Device Configuration Requirements**
+## **设备需求**
 
-* [ ] Newest release downloaded. [Haven't? Download now.](https://github.com/Tungstend/HMCL-PE/releases)
-* [ ] 512 MB free space.
-* [ ] 4GB or more available memory
-* [ ] Need a 64-bit processor(Phone)
-* [ ] Need to connect to a network
-* [ ] File manager. (Able to show hided files or folder, e.g., `.minecraft` folder)
+* [ ] 下载最新版. ([点击下载](https://github.com/Tungstend/HMCL-PE/releases))
+* [ ] 512MB以上空闲储存空间
+* [ ] 4GB或以上空闲RAM
+* [ ] 手机需要64位处理器
+* [ ] 需要联网
+* [ ] 需要可以查看以"."开头的被隐藏文件夹的文件管理器应用&#x20;
