@@ -19,7 +19,7 @@ You can change HMCL-PE User Manual's language Here:
 * ### [Bahasa Indonesia](https://mc-shengxia.gitbook.io/hmcl-pe-panduan-pengguna/)
 * ### [日本語 (にほんご)](https://mc-shengxia.gitbook.io/hmcl-pe-yzmanyuaru/)
 * ### [русский язык](https://mc-shengxia.gitbook.io/hmcl-pe-rukovodstva-polzovatelya/)
-* ### 繁體中文
+* ### [繁體中文](https://mc-shengxia.gitbook.io/hmclpe-user-manual-zhhant/)
 
 ## Manual version:1.0.0c
 
