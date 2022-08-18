@@ -25,7 +25,7 @@
   * [👀 Resolution](ji-chu-she-zhi/global-game-settings/resolution.md)
   * [⌨ Control Layout Pattern](ji-chu-she-zhi/global-game-settings/control-layout-pattern.md)
   * [🎮 Launch & Renderer Options](ji-chu-she-zhi/global-game-settings/launch-and-renderer-options.md)
-* [Appearance](ji-chu-she-zhi/appearance/README.md)
+* [外观](ji-chu-she-zhi/appearance/README.md)
   * [Theme](ji-chu-she-zhi/appearance/theme.md)
   * [Ignore notch](ji-chu-she-zhi/appearance/ignore-notch.md)
   * [Background Image](ji-chu-she-zhi/appearance/background-image.md)
