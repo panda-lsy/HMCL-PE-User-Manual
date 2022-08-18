@@ -1,7 +1,7 @@
 # 下载
 
 {% hint style="danger" %}
-**HMCL-PE目前没有32位软件包，请耐心等待。**
+HMCLPE没有官方的32位版本，但你可以下载[LegacyGamerHD](https://github.com/LegacyGamerHD) **** 提供的32位测试版本(链接见下)
 {% endhint %}
 
 ## 下载链接
@@ -18,10 +18,16 @@
 
 ### 测试版([LegacyGamerHD](https://github.com/LegacyGamerHD)提供):
 
-#### ****[**下载直链**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(点击下载,可能需要工具)**
+#### Beta versionA(64-bit, 修复渲染问题):
+
+#### ****[**直链下载**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(可能需要科学上网工具)**
+
+#### Beta version**B**(32-bit):
+
+#### ****[**直链下载**](https://mega.nz/file/0Hdz3LBY#bUfkaZIIy5jmHYINcxGDsqcfxcpv-z3uh3IITW-WPtY)**(可能需要科学上网工具)**
 
 {% hint style="success" %}
-**这个软件还不是32位的，也没有签名，如果你想安装，可以点击下载，同时这是一个测试版，LegacyGamerHD需要测试者。你可以用Discord把你的游戏FPS发给他。**
+**如果你想安装，可以点击下载，同时这是一个测试版，LegacyGamerHD需要测试者。你可以用Discord把你的游戏FPS发给他。**
 {% endhint %}
 
 ## **设备需求**
@@ -29,6 +35,6 @@
 * [ ] 下载最新版. ([点击下载](https://github.com/Tungstend/HMCL-PE/releases))
 * [ ] 512MB以上空闲储存空间
 * [ ] 4GB或以上空闲RAM
-* [ ] 手机需要64位处理器
+* [ ] ~~手机需要64位处理器~~
 * [ ] 需要联网
 * [ ] 需要可以查看以"."开头的被隐藏文件夹的文件管理器应用&#x20;

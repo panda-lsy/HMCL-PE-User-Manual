@@ -33,7 +33,7 @@
   * [⚙ Download Settings](ji-chu-she-zhi/download/download-settings.md)
   * [🚀 Multi-threaded download](ji-chu-she-zhi/download/multi-threaded-download.md)
 
-## 🙎♂ Accounts
+## 🐼 Accounts
 
 * [Add an account](accounts/add-an-account/README.md)
   * [Authentication Server Login](accounts/add-an-account/authentication-server-login/README.md)

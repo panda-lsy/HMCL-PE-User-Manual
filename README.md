@@ -19,8 +19,9 @@ coverY: 0
 * ### [Bahasa Indonesia](https://mc-shengxia.gitbook.io/hmcl-pe-panduan-pengguna/)
 * ### [日本語 (にほんご)](https://mc-shengxia.gitbook.io/hmcl-pe-yzmanyuaru/)
 * ### [русский язык](https://mc-shengxia.gitbook.io/hmcl-pe-rukovodstva-polzovatelya/)
+* ### [繁體中文](https://mc-shengxia.gitbook.io/hmclpe-user-manual-zhhant/)
 
-## 手册版本:1.0.0b
+## 手册版本:1.0.0c
 
 {% hint style="info" %}
 手册版本是为了方便贡献者在将手册翻译成其他语言之前需要校对的内容。这样可以避免主版本被更新，但其他语言版本仍然只有旧的内容。

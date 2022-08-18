@@ -22,7 +22,7 @@ Next, we will use the installation of RL-Craft as an example to install a Modpac
 
 ![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (8) (1).png>)
 
-![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (7) (1).png>)
+![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (7) (1) (2).png>)
 
 ### 2.Back to HMCLPE,Go to the download page
 
