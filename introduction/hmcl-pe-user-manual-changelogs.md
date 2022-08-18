@@ -18,7 +18,13 @@
 1. ****[**32-bit download**](../how-to-download-and-install/download.md#beta-versionb-32-bit) added
 2. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
 3. [**ModsHelper**](broken-reference) **** section changed and fixed
-4. Added 繁體中文(zh-Hant) Version
+4. Added **** [**繁體中文**](https://mc-shengxia.gitbook.io/hmclpe-user-manual-zhhant/)(zh-Hant) Version
+
+### 1.00d
+
+1. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
+2. Add a tip in [**Download**](../how-to-download-and-install/download.md) section.
+3. Add a tip in [**Launch & Renderer Options**](../basic-settings/global-game-settings/launch-and-renderer-options.md) section.
 
 
 

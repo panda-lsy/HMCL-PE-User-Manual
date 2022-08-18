@@ -22,6 +22,10 @@ The Direct Download link does not necessarily mean the **latest version**. The m
 
 ### Beta version(provided by[ LegacyGamerHD](https://github.com/LegacyGamerHD)):
 
+{% hint style="success" %}
+**If you want to install it you can click download, meanwhile this is a beta version and** [ _**LegacyGamerHD**_](https://github.com/LegacyGamerHD) **needs beta testers.You can send your game FPS to him using Discord.**
+{% endhint %}
+
 #### Beta versionA(64-bit, fixed rendering issues):
 
 #### ****[**DIRECTLink**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(Click link to download)**
@@ -30,8 +34,8 @@ The Direct Download link does not necessarily mean the **latest version**. The m
 
 #### ****[**DIRECTLink**](https://mega.nz/file/0Hdz3LBY#bUfkaZIIy5jmHYINcxGDsqcfxcpv-z3uh3IITW-WPtY)**(Click link to download)**
 
-{% hint style="success" %}
-**If you want to install it you can click download, meanwhile this is a beta version and** [ _**LegacyGamerHD**_](https://github.com/LegacyGamerHD) **needs beta testers.You can send your game FPS to him using Discord.**
+{% hint style="warning" %}
+**32 bit is comming keep in mind that we dont yet disable boat on others like 32 bit arm or x86,you have to** [**set your game launch option**](../basic-settings/global-game-settings/launch-and-renderer-options.md) **to pojav.(**[**Click**](../basic-settings/global-game-settings/launch-and-renderer-options.md) **to see how to change it.)**
 {% endhint %}
 
 ## **Device Configuration Requirements**
