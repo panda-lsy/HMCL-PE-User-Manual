@@ -34,3 +34,10 @@
 
 
 
+### 1.00f
+
+1. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
+2. Changed every link about HMCL-PE's github Repository.
+
+
+

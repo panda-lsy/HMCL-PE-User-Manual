@@ -10,9 +10,9 @@
 
 ### Submit Issue
 
-#### If you **want to** submit an [Issue](https://github.com/Tungstend/HMCL-PE/issues) to `HMCL-PE`, you need to refer to the following format:
+#### If you **want to** submit an [Issue](https://github.com/Tungstend/HMCL-PE-CN/issues) to `HMCL-PE`, you need to refer to the following format:
 
-****[**Link**](../../time-to-play/game-crashed/asking-for-help.md#committing-issues-to-github)****
+****[**Link**](https://github.com/Tungstend/HMCL-PE-CN/issues)****
 
 #### If you **want to** submit an [Issue](https://github.com/panda-lsy/HMCL-PE-User-Manual/issues/new) to `HMCL-PE User Manual`, you don't need much formatting, you just need to make sure to communicate in English or Chinese.
 

@@ -38,7 +38,7 @@ Location:_**`Your Brain`**_
 
 There are two ways asking for help:
 
-### Committing[ Issues](https://github.com/Tungstend/HMCL-PE/issues) to GitHub
+### Committing [Issues](https://github.com/Tungstend/HMCL-PE-CN/issues) to GitHub
 
 #### Format reference:
 

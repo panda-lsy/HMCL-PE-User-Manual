@@ -12,12 +12,12 @@ description: You can download HMCL-PE here.
 
 ### Official Releases:
 
-#### ****[**Github Releases**](https://github.com/Tungstend/HMCL-PE/releases)**(Click to see\&download all HMCL-PE Releases)**
+#### ****[**Github Releases**](https://github.com/Tungstend/HMCL-PE-CN/releases)**(Click to see\&download all HMCL-PE Releases)**
 
-#### [Direct Download link](https://github.com/Tungstend/HMCL-PE/releases/download/22.8.8-update/HMCLPE-release.apk)(Version:22.8.8-update-1.0.0)
+#### [Direct Download link](https://github.com/Tungstend/HMCL-PE-CN/releases/download/22.8.8-update/HMCLPE-release.apk)(Version:22.8.8-update-1.0.0)
 
 {% hint style="warning" %}
-The Direct Download link does not necessarily mean the **latest version**. The manual author cannot be online on a weekday, which means that the manual **will not receive the latest HMCL-PE version on time**. If it is convenient, please also go to [**Releases**](https://github.com/Tungstend/HMCL-PE/releases) to check all versions and download the latest version.
+The Direct Download link does not necessarily mean the **latest version**. The manual author cannot be online on a weekday, which means that the manual **will not receive the latest HMCL-PE version on time**. If it is convenient, please also go to [**Releases**](https://github.com/Tungstend/HMCL-PE-CN/releases) **** to check all versions and download the latest version.
 {% endhint %}
 
 ### Beta version(provided by[ LegacyGamerHD](https://github.com/LegacyGamerHD)):
@@ -40,7 +40,7 @@ The Direct Download link does not necessarily mean the **latest version**. The m
 
 ## **Device Configuration Requirements**
 
-* [ ] Newest release downloaded. [Haven't? Download now.](https://github.com/Tungstend/HMCL-PE/releases)
+* [ ] Newest release downloaded. [Haven't? Download now.](https://github.com/Tungstend/HMCL-PE-CN/releases/download/22.8.8-update/HMCLPE-release.apk)
 * [ ] 512 MB free space.
 * [ ] 4GB or more available memory
 * [ ] ~~Need a 64-bit processor(Phone)~~
