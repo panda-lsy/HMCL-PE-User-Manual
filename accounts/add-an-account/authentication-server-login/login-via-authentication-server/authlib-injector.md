@@ -1,16 +1,16 @@
 # Authlib-injector
 
-### 1.Get server URL
+### 1.配置身份認證伺服器
 
 #### littleskin:
 
-Back to Littleskin [user page](https://littleskin.cn/user)
+進入Littleskin的[用戶界面](https://littleskin.cn/user)
 
-Scroll down the page to find here
+向下滾動網站找到這個。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-26-09-00\_21da60175e70af2.jpg)
 
-You can also copy this line link to the clipboard:
+你也可以把下面的網址拷貝到粘貼板：
 
 ```
 https://littleskin.cn/api/yggdrasil
@@ -18,45 +18,45 @@ https://littleskin.cn/api/yggdrasil
 
 #### Blessingskin
 
-Back to Blessingskin [user page](https://skin.prinzeugen.net/user)
+进入Blessingskin的[用戶界面](https://skin.prinzeugen.net/user)
 
-Scroll down the page to find here
+向下滾動網站找到這個：
 
 ![](<../../../../.gitbook/assets/image (10).png>)
 
 <pre><code><strong>https://skin.prinzeugen.net/api/yggdrasil</strong></code></pre>
 
-### 2.Open HMCL-PE and enter Authlib-injector login GUI
+### 2.啟動HMCL-PE並進入Authlib-injector登入界面
 
-Go to the home page and click on the "Accounts" button
+轉到主頁並單擊“帳戶”按鈕。
 
-Find the "Add an Authentication Server" button in the bottom left corner and click
+找到左下角的“添加認證服務器”按鈕並點擊。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-24-16-25\_d17cc25ab2657fb.jpg)
 
-### 3.Copy authentication server link
+### 3.複製認證伺服器鏈接
 
-Copy in this input box and click "Next"
+複製到這個輸入框中，點擊“下一步”
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-24-41-86\_d17cc25ab2657fb.jpg)
 
-### 4.Click the Finish button
+### 4.點擊“完成”
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-38-22-63\_d17cc25ab2657fb.jpg)
 
-### 5.Login,Successful!
+### 5.登入，成功完成!
 
-Click on the new server button
+點擊剛剛新增的伺服器按鈕
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-38-35-43\_d17cc25ab2657fb.jpg)
 
-Fill out the login form, the username is the email you use to register
+填寫登錄表單，用戶名是您註冊時使用的郵箱。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-41-48-04\_d17cc25ab2657fb.jpg)
 
-If successful, and you have multiple users, you can select a user.Click on the user to select it.![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-42-00-47\_d17cc25ab2657fb.jpg)
+如果成功了的話，如果您有多個用戶，則可以選擇一個用戶。單擊該用戶來選擇它。！[](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-42-00-47\_d17cc25ab2657fb.jpg)
 
-Finally, you'll see the new account you just made in your account list, and ta-da, it worked!
+最後，您會在您的帳戶列表中看到您剛剛創建的新帳戶。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-21-42-15-39\_d17cc25ab2657fb.jpg)
 
