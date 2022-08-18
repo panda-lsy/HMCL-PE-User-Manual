@@ -12,3 +12,13 @@
 2. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
 3. Modified the download link in the How To [**Download & install**](../how-to-download-and-install/download.md) section and added a download link for [**BetaVersion**](../how-to-download-and-install/download.md#beta-version-provided-by-legacygamerhd).
 4. Add "[**Contribute to manual**](contribute-to-manual.md)" section
+
+### 1.0.0c
+
+1. ****[**32-bit download**](../how-to-download-and-install/download.md#beta-versionb-32-bit) added
+2. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
+3. [**ModsHelper**](broken-reference) **** section changed and fixed
+4. Added 繁體中文(zh-Hant) Version
+
+
+

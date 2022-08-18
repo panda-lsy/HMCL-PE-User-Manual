@@ -19,8 +19,9 @@ You can change HMCL-PE User Manual's language Here:
 * ### [Bahasa Indonesia](https://mc-shengxia.gitbook.io/hmcl-pe-panduan-pengguna/)
 * ### [日本語 (にほんご)](https://mc-shengxia.gitbook.io/hmcl-pe-yzmanyuaru/)
 * ### [русский язык](https://mc-shengxia.gitbook.io/hmcl-pe-rukovodstva-polzovatelya/)
+* ### 繁體中文
 
-## Manual version:1.0.0b
+## Manual version:1.0.0c
 
 {% hint style="info" %}
 The manual version is to facilitate what contributors need to proofread before translating the manual into other languages.This prevents the main version from being updated but the other language versions still only have the old content.
