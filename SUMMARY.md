@@ -112,6 +112,6 @@
 * [Github](asking-questions-by-third-party-software/github/README.md)
   * [Get your Github Account](asking-questions-by-third-party-software/github/get-your-github-account.md)
   * [Submit an Issue](asking-questions-by-third-party-software/github/submit-an-issue.md)
-  * [Add Pull Requests(WIP)](asking-questions-by-third-party-software/github/add-pull-requests-wip.md)
+  * [Add Pull Requests](asking-questions-by-third-party-software/github/add-pull-requests-wip.md)
 * [Discord](asking-questions-by-third-party-software/discord/README.md)
   * [How to use threads?](asking-questions-by-third-party-software/discord/how-to-use-threads.md)

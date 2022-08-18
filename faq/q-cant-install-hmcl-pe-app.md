@@ -5,7 +5,7 @@
 * [ ] Newest release downloaded. [Haven't? Download now.](https://github.com/Tungstend/HMCL-PE/releases)
 * [ ] 512 MB free space.
 * [ ] 4GB or more available memory
-* [ ] Need a 64-bit processor(Phone)
+* [ ] ~~Need a 64-bit processor(Phone)~~
 * [ ] Need to connect to a network
 * [ ] File manager. (Able to show hided files or folder, e.g., `.minecraft` folder)
 

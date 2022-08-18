@@ -12,59 +12,91 @@ You now have three ways to contribute to the writing of the manual.
 
 In writing the manual, the administrator found that most of the people in **Discord** are not **native English speakers**, so the complex English tutorials **make it difficult** for them to read. You can use translation software to first translate the English content into your own language, then **embellish it** with spoken language and finally make the manual accessible to a wider audience.
 
-### How?
-
 You can do this by changing the file directly and submitting a [**Pull Request**](https://github.com/panda-lsy/HMCL-PE-User-Manual/pulls) for translation.
 
-#### Get a Github Account
+### Get a Github Account
 
 You can sign up for a free Github account with your own email address and contribute to the manual.&#x20;
 
 ****[**Click**](../asking-questions-by-third-party-software/github/get-your-github-account.md) **** to view the tutorial.
 
-#### Open the HMCL-PE manual, find this button and click on it
+### Open the [HMCL-PE manual's github Page](https://github.com/panda-lsy/HMCL-PE-User-Manual)
 
-![](../.gitbook/assets/DBDCC5152222E463855EAF41F9D7EF17.jpg)
+Click on the <img src="../.gitbook/assets/image (20).png" alt="" data-size="line"> button to copy the file to your account
 
-#### Click on the "Edit on Github" button
+**But don't tick this function!**
 
-![](../.gitbook/assets/A46F29E513A5A82E8D6723E9F7261F70.jpg)
+![](<../.gitbook/assets/image (16).png>)
 
-#### Switch to the branch for your language.
+#### Then,Create your version of the Manual.
 
-![](../.gitbook/assets/83788E269BC14C3EE48A987E6B15197E.jpg)
+Click on <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> Button
 
-You drag down and there are other supported languages
+You will then be automatically redirected to your own version.
 
-![](../.gitbook/assets/989971774507BAC1A7BDB9C346FC1F51.jpg)
+![](<../.gitbook/assets/image (8).png>)
+
+### Starting Translation!
+
+First, switch to the language branch you want to translate into.
 
 {% hint style="info" %}
-**If your native language is not among the supported languages**, you can let me create a branch by @me at Discord, or by submitting an Issue on Github.
+**If your native language is not among the supported languages**, you can let me create a branch by @mc\_shengxia at Discord, or by submitting an Issue on Github.
 {% endhint %}
 
-#### Return to the Code Overview page.
+![](<../.gitbook/assets/image (13).png>)
 
-![](../.gitbook/assets/A607408BB3F850ABB6A693DD4A7D43E7.jpg)
+### What can <mark style="color:red;">****</mark> I do before translate a text document?
 
-#### Code is hidden? Click to show.
+Before proceeding with the translation you need to know the following:
 
-![](../.gitbook/assets/238DA75AE36F6F30E4FDB8C8E53BF2FD.jpg)
-
-#### Find a folder and click on an .md file, then you can start editing.
-
-![](../.gitbook/assets/6F9D27FC722F3EE4EF61B72F48ABC593.jpg)![](../.gitbook/assets/33B5D3B05072B2245C01C441E7E9E825.jpg)
-
-#### Submit your translated document with a preview
-
-![](../.gitbook/assets/image.png)
-
-![](<../.gitbook/assets/image (2).png>)
-
-#### Just submit.
-
-**Finally, you just need to wait for the administrator to review it.**
+* [x] Calibrate the HMCL-PE community manual for new versions
 
 ![](<../.gitbook/assets/image (1).png>)
+
+![If this is the case then there is no new version, otherwise you need to click Update Branch to update](<../.gitbook/assets/image (19).png>)
+
+* [x] Please do not translate the names of any folders as this could easily result in the site not being able to read the files.
+
+### How do I translate the **SUMMARY**?
+
+All you need to do is find SUMMARY.md and edit it.
+
+<mark style="color:red;">**Please do not change the name of the folder, it does not work.**</mark>
+
+{% hint style="info" %}
+The sections marked in <mark style="color:purple;"><mark style="color:red;background-color:blue;">blue<mark style="color:red;background-color:blue;"></mark> like this are the names of the headings of each section, and also the names of the subheadings.
+
+The parts marked in <mark style="color:red;background-color:red;">red</mark> like this are the paths to the read files, please do not translate them.
+{% endhint %}
+
+![](<../.gitbook/assets/image (14).png>)
+
+### How to translate?
+
+All you need to do is open a file and click the <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> button.
+
+After translate,you need to Slide to the bottom of the page and click on the <img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> button
+
+### How do I submit my translation to the community?
+
+Once you have edited the file, you will see that the appearance looks like this.
+
+![](<../.gitbook/assets/image (17).png>)
+
+All you have to do is click the <img src="../.gitbook/assets/image.png" alt="" data-size="line"> button to submit your Pull Request to the community!
+
+If you follow the manual tutorial for translation, you do not need to change here.
+
+![If you follow the manual tutorial for translation, you do not need to change here.](<../.gitbook/assets/image (10).png>)
+
+You can make a note here to explain what you have translated.
+
+If you don't want your request to be returned by the maintainer because of some minor formatting gaps, you'd better enable this feature:![](<../.gitbook/assets/image (3).png>)
+
+![](<../.gitbook/assets/image (21).png>)
+
+Finally, all you have to do is click the <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> button and you're done!
 
 ## Be an issue reporter
 

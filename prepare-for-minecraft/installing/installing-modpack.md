@@ -20,9 +20,9 @@ Next, we will use the installation of RL-Craft as an example to install a Modpac
 
 **Modloader Version:**If it is a Forge modpack and the author does not specify the Forge version, please download the latest Forge version in the corresponding minecraft version.(The same is true if it is a Fabric.)
 
-![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (8).png>)
+![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (8) (1).png>)
 
-![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (7).png>)
+![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (7) (2).png>)
 
 ### 2.Back to HMCLPE,Go to the download page
 

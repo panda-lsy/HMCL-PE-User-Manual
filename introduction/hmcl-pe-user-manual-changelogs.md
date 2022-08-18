@@ -26,5 +26,11 @@
 2. Add a tip in [**Download**](../how-to-download-and-install/download.md) section.
 3. Add a tip in [**Launch & Renderer Options**](../basic-settings/global-game-settings/launch-and-renderer-options.md) section.
 
+### 1.00e
+
+1. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
+2. Added a better [**translation tutorial**](contribute-to-manual.md#being-a-translator).
+3. Added "[**Add Pull Requests**](../asking-questions-by-third-party-software/github/add-pull-requests-wip.md)" section in manual
+
 
 

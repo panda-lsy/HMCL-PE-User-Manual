@@ -14,11 +14,11 @@ Click the "Sign up for Github" button
 
 After waiting for an animation, enter your email here.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Enter your password here.(Not the password to log in to your email, but the password you will use to log in to GitHub later.)
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 Enter your username here, and if available, you can tap the Continue button.
 

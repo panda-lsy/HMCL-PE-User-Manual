@@ -6,7 +6,7 @@
 
 ### Click on the New Issue button
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 ### Submit Issue
 
@@ -18,7 +18,7 @@
 
 ### Interface Introduction.
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 Title:The name or main content of the issue
 
