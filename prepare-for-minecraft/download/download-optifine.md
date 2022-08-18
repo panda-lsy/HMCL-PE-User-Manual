@@ -24,7 +24,7 @@ You need to download it from the [official website](https://optifine.net/downloa
 
 If you need more versions, please click on the button marked in red.
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (31).png>)
 
 If you can't stand the ads before the download, you can click (mirror) to use the mirror download. (It may be faster)
 

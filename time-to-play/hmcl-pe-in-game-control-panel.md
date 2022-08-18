@@ -16,7 +16,7 @@ You can also click on the Crafttable button to bring up the interface (you can c
 
 **Sidebar:**By turning this on, you can display a gray button that pops up Control Layout Pattern page when clicked
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 **Swipe gesture:**By turning on this feature, you can bring up the page by swiping the side of the screen.
 

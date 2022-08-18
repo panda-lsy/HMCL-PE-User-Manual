@@ -4,8 +4,8 @@ description: You can download HMCL-PE here.
 
 # Download
 
-{% hint style="danger" %}
-**HMCL-PE does not have a 32-bit version, you need to be patient.**
+{% hint style="success" %}
+**There is no official 32-bit version of HMCLPE, but you can download the 32-bit beta version provided by** [LegacyGamerHD](https://github.com/LegacyGamerHD) **(link below)**
 {% endhint %}
 
 ## Download Link
@@ -22,10 +22,16 @@ The Direct Download link does not necessarily mean the **latest version**. The m
 
 ### Beta version(provided by[ LegacyGamerHD](https://github.com/LegacyGamerHD)):
 
+#### Beta versionA(64-bit, fixed rendering issues):
+
 #### ****[**DIRECTLink**](https://mega.nz/file/cWEhHZhK#xzLbhWfhXAEZpKfsquf8jrhZfxAxH38l1l6rddJLWPk)**(Click link to download)**
 
+#### Beta version**B**(32-bit):
+
+#### ****[**DIRECTLink**](https://mega.nz/file/0Hdz3LBY#bUfkaZIIy5jmHYINcxGDsqcfxcpv-z3uh3IITW-WPtY)**(Click link to download)**
+
 {% hint style="success" %}
-**This software is not 32 bit yet and it is unsigned, if you want to install it you can click download, meanwhile this is a beta version and **_**LegacyGamerHD**_** needs beta testers.You can send your game FPS to him using Discord.**
+**If you want to install it you can click download, meanwhile this is a beta version and** [ _**LegacyGamerHD**_](https://github.com/LegacyGamerHD) **needs beta testers.You can send your game FPS to him using Discord.**
 {% endhint %}
 
 ## **Device Configuration Requirements**
@@ -33,6 +39,6 @@ The Direct Download link does not necessarily mean the **latest version**. The m
 * [ ] Newest release downloaded. [Haven't? Download now.](https://github.com/Tungstend/HMCL-PE/releases)
 * [ ] 512 MB free space.
 * [ ] 4GB or more available memory
-* [ ] Need a 64-bit processor(Phone)
+* [ ] ~~Need a 64-bit processor(Phone)~~
 * [ ] Need to connect to a network
 * [ ] File manager. (Able to show hided files or folder, e.g., `.minecraft` folder)

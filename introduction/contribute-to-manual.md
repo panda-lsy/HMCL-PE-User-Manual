@@ -56,15 +56,15 @@ You drag down and there are other supported languages
 
 #### Submit your translated document with a preview
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (17).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 #### Just submit.
 
 **Finally, you just need to wait for the administrator to review it.**
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (22).png>)
 
 ## Be an issue reporter
 
