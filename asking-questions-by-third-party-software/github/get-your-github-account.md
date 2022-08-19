@@ -8,34 +8,34 @@ Click this [link](https://github.com/) and go there
 
 Click the "Sign up for Github" button
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 ## **2.Sign up**
 
 After waiting for an animation, enter your email here.
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 Enter your password here.(Not the password to log in to your email, but the password you will use to log in to GitHub later.)
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 Enter your username here, and if available, you can tap the Continue button.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](../../.gitbook/assets/image.png)
 
 Optional Features
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
 Verify that you are a human
 
-![](<../../.gitbook/assets/image (1) (2).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 Click "Create account" button to create an account.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 Finally, all you need to do is go to your email and enter the verification code to successfully create your Github account.
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (19).png>)

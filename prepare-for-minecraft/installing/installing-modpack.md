@@ -12,17 +12,17 @@ Next, we will use the installation of RL-Craft as an example to install a Modpac
 
 ## First,Use HMCL-PE to download a vanilla minecraft with Modloader
 
-### \*\*1.\*\*Check the minecraft version and the modloader used
+### **1.**Check the minecraft version and the modloader used
 
 **You will need to refer to MODPACK for the minecraft version to download.**
 
 **Minecraft version:** the version of Minecraft used in the Modpack
 
-\*\*Modloader Version:\*\*If it is a Forge modpack and the author does not specify the Forge version, please download the latest Forge version in the corresponding minecraft version.(The same is true if it is a Fabric.)
+**Modloader Version:**If it is a Forge modpack and the author does not specify the Forge version, please download the latest Forge version in the corresponding minecraft version.(The same is true if it is a Fabric.)
 
-![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (8).png>)
+![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (28).png>)
 
-![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (7) (2).png>)
+![Click Recent Files to get the Modpack information, but do not go to download it.](<../../.gitbook/assets/image (34).png>)
 
 ### 2.Back to HMCLPE,Go to the download page
 
@@ -121,7 +121,7 @@ Attention:
 
 Click to download.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (31).png>)
 
 Then,You have to unzip your file the phone.
 
@@ -140,7 +140,7 @@ Then,You have to unzip your file the phone.
 
 **But there is no need to move the `versions` folder**
 
-### \*\*2.\*\*Moving files
+### **2.**Moving files
 
 Open the Modpack folder you unzipped and copy the files inside.
 
@@ -157,6 +157,8 @@ Open the working dictionary and paste the copied Modpack file into this folder.
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-15-50-41-68\_846b44643ec609f.jpg)
 
 ### 3.Success！
+
+
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-15-53-42-24\_846b44643ec609f.jpg)
 
@@ -183,3 +185,4 @@ If MODS is detected, you have succeeded
 {% hint style="success" %}
 **This tutorial will be rewritten when HMCL-PE is updated with the Import Modpack feature.**
 {% endhint %}
+
