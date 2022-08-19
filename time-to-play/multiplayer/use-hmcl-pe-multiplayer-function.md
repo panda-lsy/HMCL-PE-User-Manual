@@ -1,6 +1,6 @@
 # Use HMCL-PE Multiplayer Function
 
-### Host player:
+### Host player:&#x20;
 
 You need to start the game first, entera archive as the online world
 
@@ -16,9 +16,9 @@ remember your port number
 
 ![](../../.gitbook/assets/qq\_pic\_merged\_1660616449647.jpg)
 
-and then [open](../hmcl-pe-in-game-control-panel.md) the [HMCL-PE Control panel](../hmcl-pe-in-game-control-panel.md), open the online module menu,
+and then [open](../hmcl-pe-in-game-control-panel.md) the [HMCL-PE Control panel](../hmcl-pe-in-game-control-panel.md), open the online module menu,&#x20;
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 click to create the room, confirm the displayed port number and tour The scene prompts consistent,and then confirm the room and open the room.
 
@@ -28,7 +28,7 @@ When you create it, you will be prompted to create a VPN connection, you just ne
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-10-10-56-48\_d17cc25ab2657fb.jpg)
 
-After the room is opened. vou will be able to click on the room information To view your invitation codeand lP+port, you need to send them to your online partner.
+After the room is opened. vou will be able to click on the room information To view your invitation codeand lP+port, you need to send them to your online partner.&#x20;
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-10-11-11-10\_d17cc25ab2657fb.jpg)
 
@@ -36,9 +36,9 @@ After the room is opened. vou will be able to click on the room information To v
 Please do not tell the invitationcode, ip, port telling any stranger.
 {% endhint %}
 
-### Member player:
+### Member player:&#x20;
 
-You need to ask the host player toask for the invitation code and lP+port, and then open the HMCL-PE Control panel, turn on the onlinemodule menu.
+You need to ask the host player toask for the invitation code and lP+port, and then open the HMCL-PE Control panel, turn on the onlinemodule menu.&#x20;
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-10-37-23-84\_d17cc25ab2657fb.jpg)
 
@@ -65,3 +65,4 @@ The name of the server is arbitrarily, and the server address is filled in the I
 Success!
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-16-10-39-06-66\_d17cc25ab2657fb.jpg)
+
