@@ -1,5 +1,5 @@
-# Delete an account
+# 刪除賬戶
 
-To delete your account, you need to open HMCL-PE, click on the "Accounts" button and click on this "Trashcan" button on the right side of your created character.
+要刪除您的賬戶，您需要打開HMCL-PE，點擊“賬戶”按鈕並且點擊您要刪除的賬戶右邊的“垃圾桶” 按鈕。
 
 ![](../.gitbook/assets/Screenshot\_2022-08-14-22-42-00-77\_d17cc25ab2657fb.jpg)
