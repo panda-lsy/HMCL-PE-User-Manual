@@ -89,7 +89,8 @@
   * [Game Crashed!](time-to-play/game-crashed/README.md)
     * [Solve the problem yourself(WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
     * [Launcher issues](time-to-play/asking-for-help/game-crashed/launcher-issues.md)
-  * [HMCL-PE Crashed!](time-to-play/hmcl-pe-crashed-wip.md)
+  * [HMCL-PE Crashed!](time-to-play/asking-for-help/hmcl-pe-crashed-wip/README.md)
+    * [Solve the problem yourself(WIP)](time-to-play/asking-for-help/hmcl-pe-crashed-wip/solve-the-problem-yourself-wip.md)
 
 ## ❓ FAQ
 

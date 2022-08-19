@@ -32,12 +32,16 @@
 2. Added a better [**translation tutorial**](contribute-to-manual.md#being-a-translator).
 3. Added "[**Add Pull Requests**](../asking-questions-by-third-party-software/github/add-pull-requests-wip.md)" section in manual
 
-
-
 ### 1.00f
 
 1. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
 2. Changed every link about HMCL-PE's github Repository.
+
+### 1.00g
+
+1. Added [**Solve the problem yourself**](../time-to-play/asking-for-help/hmcl-pe-crashed-wip/solve-the-problem-yourself-wip.md) section to the [**HMCL-PE Crashed!**](../time-to-play/asking-for-help/hmcl-pe-crashed-wip/)****
+2. Updated [**Download link**](https://github.com/Tungstend/HMCL-PE/releases/tag/22.8.18)**(**22.8.8→22.8.18)
+3. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
 
 
 
