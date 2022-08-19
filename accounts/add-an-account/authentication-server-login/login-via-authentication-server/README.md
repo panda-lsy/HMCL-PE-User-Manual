@@ -1,3 +1,3 @@
-# Login via Authentication Server
+# 以身份驗證伺服器登入
 
-In this section, you can use the HMCL-PE to pass through the Authentication Server
+在本節中，我們將告訴您在HCML-PE中使用身份驗證伺服器登入的方法。
