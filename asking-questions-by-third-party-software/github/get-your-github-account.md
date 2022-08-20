@@ -1,6 +1,6 @@
 # 註冊Github賬戶
 
-**如果你要提交Issue首先你得先註冊** [**Github**](https://github.com/) **account (free)**
+**如果你要提交Issue首先你得先註冊** [**Github**](https://github.com/) **賬戶（免費）**
 
 ## 1.訪問[Github官方的網站](https://github.com/)
 
