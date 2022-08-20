@@ -1,7 +1,7 @@
-# Add an account
+# 添加一個賬戶
 
-### **You have three ways to create an account to play minecraft**
+### **你有三種方式創建新賬戶來遊玩Minecraft**
 
-* **Offline**
-* **Microsoft Account**
-* **Authentication Server Login**
+* **離線模式**
+* **微軟賬戶**
+* **認證伺服器登入**

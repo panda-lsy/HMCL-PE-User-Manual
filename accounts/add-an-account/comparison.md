@@ -1,12 +1,12 @@
 ---
-description: Comparison of the functions of different login methods
+說明：不同登入方式的比較：
 ---
 
-# Comparison
+# 比較
 
-| Function\Login Method                | Authentication Server Login                                     | Microsoft Account Login                                                   | Offline Mode Login                                              |
+| 功能/登入方法                | 認證伺服器登入                                     | 微軟賬戶登入                                                   | 離線模式登入                                              |
 | ------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Expense                              | FREE                                                            | It costs money, but that's no reason for you not to support the original. | FREE                                                            |
-| Is the skin visible                  | Yes                                                             | Yes                                                                       | Requires local import                                           |
-| Multiplayer skins are visible or not | Needs [adjustment](../costume-skin/multiplayer-game-display.md) | Yes                                                                       | Needs [adjustment](../costume-skin/multiplayer-game-display.md) |
-| MODS Compatibility                   | Not sure                                                        | 100%                                                                      | There may be a problem with the UUID.                           |
+| 費用                              | 免費                                                            |它要花錢，但這不是你不支持原版的理由。| 免費                                                           |
+| 皮膚是否可見                   | 是的                                                             | 是的                                                                       | 需要本地導入                                          |
+| 在多人遊戲中皮膚是否可見 | 需要 [配置](../costume-skin/multiplayer-game-display.md) | 是的                                                                       | 需要[配置](../costume-skin/multiplayer-game-display.md) |
+| mods的兼容性                    | 不確定                                                        | 100%                                                                      |UUID 可能有問題。                           |

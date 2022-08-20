@@ -1,7 +1,7 @@
-# Default Skin
+# 默認皮膚
 
-To change your skin, you need to open HMCL-PE, click on the "Accounts" button and click on this "hanger" button on the right side of your created character.
+要更變你的皮膚，你需要打開HMCL-PE點擊“賬戶”按鈕並點擊你要更變的賬戶右邊的“衣架”按鈕。
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-21-58-15-46\_d17cc25ab2657fb.jpg)
 
-You have two classic skins to choose from, Steve and Alex.
+你可以在這裡選擇兩個經典皮膚Steve和Alex。

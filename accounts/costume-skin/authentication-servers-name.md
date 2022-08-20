@@ -1,24 +1,23 @@
 ---
-description: >-
-  If you do not have an Authentication Server account registered, this is a
-  chance operation.
+請注意: >-
+  如果您沒有註冊認證伺服器的賬戶，那麼這將會是一個無關的操作。
 ---
 
-# Authentication Server's name
+# 認證伺服器的名字
 
-To change your skin, you need to open HMCL-PE, click on the "Accounts" button and click on this "hanger" button on the right side of your created character.
+要修改您的皮膚您需要打開HMCL-PE,點擊“賬戶”按鈕並點擊在您創建的角色右邊的“衣架”按鈕。
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-21-58-15-46\_d17cc25ab2657fb.jpg)
 
-When you click the Littleskin or Blessing skin button, it will automatically correspond to the nickname from the skin server's account and find the skin for that nickname.
+當您點擊Littleskin或是Blessing皮膚按鈕時，它將自動對應皮膚服務器帳戶中的名稱並找到該名稱的皮膚。
 
-If you have not logged into an Authentication Server account before, then say you are lucky, but also unfortunate that a player with the same nickname as you has hijacked the name on this skin server, which means that even if you register this account on the skin server, you can no longer use this name.
+如果你之前沒有登入認證伺服器賬戶那麼我要跟你說：你太不幸了。而且一個和你暱稱相同的玩家在這個皮膚服務器上擁有了這個名字，這意味著即使你在皮膚服務器上註冊了這個賬戶，你也不能再使用這個名字了。
 
-If you have already registered your Authentication Server account, please do not use the offline login to change the skin if it is not necessary, it is better to use Authentication Server to login HMCL-PE.[(Click to jump to the corresponding section)](../add-an-account/authentication-server-login/login-via-authentication-server/authlib-injector.md)
+如果你已經註冊了你的認證伺服器賬戶，如果不是必要的就請不要使用離線登錄來換皮膚，最好使用認證伺服器伺服器登入HMCL-PE。.[點擊這裡跳轉到相對應的部分](../add-an-account/authentication-server-login/login-via-authentication-server/authlib-injector.md)
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-22-11-40-62\_d17cc25ab2657fb.jpg)
 
 {% hint style="info" %}
-It is worth noting that the Authentication Server skin is theoretically invisible to others in multiplayer online games, but can be [**adjusted**](multiplayer-game-display.md) to make it visible to others.
+值得注意的是，認證伺服器登入所加載的皮膚再多人遊戲中理論上是他人不可見的，但是可以加以[**調整**](multiplayer-game-display.md)來使其他人可以看見你的皮膚。
 {% endhint %}
 

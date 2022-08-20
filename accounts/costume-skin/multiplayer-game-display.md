@@ -1,21 +1,21 @@
 ---
-description: You can achieve this by using a mod
+注意:您可以通過使用 mod 來實現這一點。
 ---
 
-# Multiplayer game display
+# 多人遊戲畫面
 
-The name of this mod is [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) and it allows loading skins from the network or locally.
+這個mod的名稱是[CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader)它允許從網絡或本地中加載皮膚。
 
-If you want to use it, you need to install it in the server side and the client side.
+如果您想要使用它，您需要將它安裝在服務端和客戶端上。
 
-It supports many versions of the game:
+它支持許多版本的Minecraft。
 
 ![](<../../.gitbook/assets/image (2).png>)
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-If you want to use the new version of CustomSkinLoader in version 1.7.10, you need to add this mod:[Compatibility Layer For CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/compatibilitylayerforcustomskinloader)
+如果你想要在1.7.10版本使用新版本的CustomSkinLoader，你需要添加這個mod：[Compatibility Layer For CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/compatibilitylayerforcustomskinloader)
 
 {% hint style="info" %}
-This mod is compatible with the version information from [MCMOD](https://www.mcmod.cn/)
+該模組與[MCMOD](https://www.mcmod.cn/)的版本信息兼容。
 {% endhint %}

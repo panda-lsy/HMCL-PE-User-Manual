@@ -1,58 +1,57 @@
 # Littleskin
 
-### Change language
+### 更變語言
 
-You can find this button at the top of the website
+你可以在網站頂部找到這個按鈕。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-20-34-23\_21da60175e70af2.jpg)
 
-### Register Account
+### 註冊賬戶
 
-Click this button to start registration
+點擊按鈕來開始註冊賬戶。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-21-36-18\_21da60175e70af2.jpg)
 
-You just need to register an account according to the process.
+你只需要根據下面的流程就可以註冊賬戶了！
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-22-37-14\_21da60175e70af2.jpg)
 
-### Get a name that can be loaded with a skin!
+### 創建一個角色來加載皮膚
 
-You need to find the menu button at the top of the website and click on
+您需要在網站頂部找到彩蛋按鈕並點擊它。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-23-48-89\_21da60175e70af2.jpg)
 
-Find the "Players" button in the menu
+在菜單中找到“Players”按鈕。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-25-34-23\_21da60175e70af2.jpg)
 
-Click the "add new account" button to create a name
+點擊"add new account"按鈕來創建一個角色。
 
 ![](../../../../.gitbook/assets/qq\_pic\_merged\_1660469173214.jpg)
 
-### Find, and apply your skin!
+### 尋找您喜愛的皮膚，並應用皮膚。
 
-Go back to the menu and click on the "skin library" button
+返回到菜單並點擊“skin library”按鈕（繁體中文下為“皮膚庫”）
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-28-16-31\_21da60175e70af2.jpg)
 
-If you find a skin you like, click and tap the blue "Add to closet" button
+如果你找到了你喜愛的皮膚，點擊藍色的"Add to closet" 按鈕。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-28-40-35\_21da60175e70af2.jpg)
 
-Go back to the menu and click on the "Closet" button
+返回到菜單並點擊"Closet"按鈕。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-32-30-01\_21da60175e70af2.jpg)
 
-Find your skin and click on it.
+找到你的皮膚並點擊它。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-29-06-90\_21da60175e70af2.jpg)
 
-Scroll to the bottom of the page and click on the "Apply" button
+滾動到頁面底部，然後單擊“應用”按鈕。
 
 ![](../../../../.gitbook/assets/Screenshot\_2022-08-14-17-29-15-06\_21da60175e70af2.jpg)
 
-Then, you've successfully changed your skin!
-
+現在你已經成功地改變了你的皮膚！
 
 

@@ -1,21 +1,20 @@
 ---
-description: Tutorials from the official Discord
+注意：這是來自官方 Discord 的教程
 ---
 
-# How to use threads?
+# 如何使用話題？
 
-**Threads are a way to seperate individual topics and discussions from each other within a channel.**
+**話題是一種在頻道內將各個主題和討論彼此分開的東西。**
 
-#### 1.Click on the "Thread" button&#x20;
+#### 1.點擊“話題”按鈕&#x20;
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-#### 2.Click on "New thread"
-
+#### 2.點擊“新話題”
 ![](<../../.gitbook/assets/image (6).png>)
 
-#### 3.Set the thread name and a starting message.&#x20;
+#### 3.設定話題名稱和起始訊息。&#x20;
 
-You can add more detail in subsequent messages
+您可以在後續消息中添加更多信息
 
 ![](<../../.gitbook/assets/image (5).png>)
