@@ -1,17 +1,17 @@
-# Local Skin File
+# 本地皮膚文件
 
-To change your skin, you need to open HMCL-PE, click on the "Accounts" button and click on this "hanger" button on the right side of your created character.
+要更變你的皮膚，你需要打開HMCL-PE點擊“賬戶”按鈕，並點擊你要更變的賬戶右邊的“衣架”按鈕。
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-21-58-15-46\_d17cc25ab2657fb.jpg)
 
-On the right side, select "local File".
+正確的方式是選擇“本地文件”
 
-By clicking on the folder icon, you can find your skin file and apply it.
+點擊文件夾圖標，您可以找到您的皮膚文件並應用它。
 
-When you slide down the page, you will find the same, change cloak button.
+當您向下滑動頁面時，您會發現相同的更改披風的按鈕。
 
 ![](../../.gitbook/assets/qq\_pic\_merged\_1660485618313.jpg)
 
 {% hint style="warning" %}
-It is worth noting that the skins of Local Skin File are theoretically invisible to others in multiplayer online,but can be [**adjusted**](multiplayer-game-display.md) to make it visible to others.
+值得注意的是，本地皮膚文件的皮膚在多人聯機中理論上對其他人是不可見的，但可以加以[**調整**](multiplayer-game-display.md)來使他人可以看見你的皮膚
 {% endhint %}
