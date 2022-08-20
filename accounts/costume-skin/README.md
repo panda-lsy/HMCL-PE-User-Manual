@@ -1,9 +1,9 @@
-# Costume Skin
+# 皮膚
 
-If you are an offline login player, I recommend that you log in to an account using Authentication Server as soon as possible. The best way to do this is to purchase a Microsoft Minecraft account
+如果是離線登入角色，我建議您盡快使用身份認證伺服器來登入帳戶。最好是購買微軟賬戶版的Minecraft。
 
-In HMCL-PE, if you are using an offline account, there are three ways to change the skin.
+在HMCL-PE中， 用離線登入賬戶有三種方式來裝載皮膚。
 
-* Local skin file
-* Authentication Server's name
-* Default(Steve/Alex)
+* 本地皮膚文件
+* 伺服器上的正版玩家的名稱登入
+* 默認皮膚(Steve/Alex)
