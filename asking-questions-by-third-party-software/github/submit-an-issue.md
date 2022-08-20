@@ -1,35 +1,35 @@
-# Submit an Issue
+# 提交issue
 
-### Find a repositories and go to the Issues section.
-
+### 找到存儲庫並轉到issue部分。
 ![](<../../.gitbook/assets/image (13).png>)
 
-### Click on the New Issue button
+### 點擊“new issue”按鈕
 
 ![](<../../.gitbook/assets/image (16).png>)
 
-### Submit Issue
+### 提交issue
 
-#### If you **want to** submit an [Issue](https://github.com/Tungstend/HMCL-PE/issues) to `HMCL-PE`, you need to refer to the following format:
+#### 如果您**想要**向`HMCL-PE`[提交issue](https://github.com/Tungstend/HMCL-PE/issues)您需要參考以下格式：
 
-****[**Link**](../../time-to-play/asking-for-help/#committing-issues-to-github)****
+****[**鏈接**](../../time-to-play/asking-for-help/#committing-issues-to-github)****
 
-#### If you **want to** submit an [Issue](https://github.com/panda-lsy/HMCL-PE-User-Manual/issues/new) to `HMCL-PE User Manual`, you don't need much formatting, you just need to make sure to communicate in English or Chinese.
+#### 如果您**想要**向`HMCL-PE用戶手冊`提交[issue](https://github.com/panda-lsy/HMCL-PE-User-Manual/issues/new)您可以不用太多的格式，您只需要確保您能用英文或中文交流。
 
-### Interface Introduction.
+### 界面介紹
 
 ![](<../../.gitbook/assets/image (20).png>)
 
-Title:The name or main content of the issue
+Write:寫問題的名稱或主要內容。
 
-Write: You can add more details here.
+Write：可以在此處添加更多詳細信息。
 
 {% hint style="info" %}
-Because writing a nice issue requires learning Markdown syntax, and there are many people who have not come across it, You can get a quick start here
+
+因為寫一個nice issue需要學習Markdown語法，還有很多人沒接觸過，可以在這裡快速入門
 
 ![](<../../.gitbook/assets/image (23).png>)
 {% endhint %}
 
-Preview: **After you write an Issue you need to preview it to see if it's neat and tidy.**
+預覽：**寫完一個Issue後，您得先預覽它，看看它是否整潔、易懂。**
 
-#### When you are done writing, you just need to click the "Submit new issue" button
+#### 當你寫完後，你只需要點擊“提交new issue”按鈕。
