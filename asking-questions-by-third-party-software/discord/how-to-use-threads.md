@@ -12,10 +12,10 @@ description: Tutorials from the official Discord
 
 #### 2.Click on "New thread"
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1).png>)
 
 #### 3.Set the thread name and a starting message.&#x20;
 
 You can add more detail in subsequent messages
 
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1).png>)

@@ -8,7 +8,7 @@ Click this [link](https://github.com/) and go there
 
 Click the "Sign up for Github" button
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 ## **2.Sign up**
 
@@ -22,7 +22,7 @@ Enter your password here.(Not the password to log in to your email, but the pass
 
 Enter your username here, and if available, you can tap the Continue button.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Optional Features
 
@@ -34,8 +34,8 @@ Verify that you are a human
 
 Click "Create account" button to create an account.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 Finally, all you need to do is go to your email and enter the verification code to successfully create your Github account.
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)

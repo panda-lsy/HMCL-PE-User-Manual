@@ -1,5 +1,7 @@
 # ⌨ Control Layout Pattern
 
+
+
 {% hint style="info" %}
 Since the manual author rarely uses this feature, there is very little content, so I'd appreciate it if you could add and contribute!
 {% endhint %}
@@ -31,6 +33,10 @@ You can exchange these with other players in the "HMCL-PE": "#custom-control" se
 ### Import
 
 After you download someone else's file, you need to use this function to import it to HMCL-PE. or you can click on the downloaded .hmclpe format file and open it with HMCL-PE
+
+{% hint style="warning" %}
+You may not have a way to import Pojav Launcher's Control Layout Pattern directly into HMCLPE for now, so you will need to manually reset the Control Layout Pattern [**(click for tutorial)**](../../time-to-play/hmcl-pe-control-layout-pattern/)****
+{% endhint %}
 
 ### Delete
 

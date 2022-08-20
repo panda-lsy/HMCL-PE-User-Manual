@@ -30,7 +30,7 @@ Click on the <img src="../.gitbook/assets/image (20).png" alt="" data-size="line
 
 #### Then,Create your version of the Manual.
 
-Click on <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> Button
+Click on <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> Button
 
 You will then be automatically redirected to your own version.
 
@@ -44,7 +44,7 @@ First, switch to the language branch you want to translate into.
 **If your native language is not among the supported languages**, you can let me create a branch by @mc\_shengxia at Discord, or by submitting an Issue on Github.
 {% endhint %}
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 ### What can <mark style="color:red;">****</mark> I do before translate a text document?
 
@@ -52,7 +52,7 @@ Before proceeding with the translation you need to know the following:
 
 * [x] Calibrate the HMCL-PE community manual for new versions
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (3).png>)
 
 ![If this is the case then there is no new version, otherwise you need to click Update Branch to update](<../.gitbook/assets/image (19).png>)
 
@@ -70,11 +70,11 @@ The sections marked in <mark style="color:purple;"><mark style="color:red;backgr
 The parts marked in <mark style="color:red;background-color:red;">red</mark> like this are the paths to the read files, please do not translate them.
 {% endhint %}
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 ### How to translate?
 
-All you need to do is open a file and click the <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> button.
+All you need to do is open a file and click the <img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="line"> button.
 
 After translate,you need to Slide to the bottom of the page and click on the <img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> button
 
@@ -82,21 +82,21 @@ After translate,you need to Slide to the bottom of the page and click on the <im
 
 Once you have edited the file, you will see that the appearance looks like this.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
-All you have to do is click the <img src="../.gitbook/assets/image.png" alt="" data-size="line"> button to submit your Pull Request to the community!
+All you have to do is click the <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> button to submit your Pull Request to the community!
 
 If you follow the manual tutorial for translation, you do not need to change here.
 
-![If you follow the manual tutorial for translation, you do not need to change here.](<../.gitbook/assets/image (10).png>)
+![If you follow the manual tutorial for translation, you do not need to change here.](<../.gitbook/assets/image (10) (2).png>)
 
 You can make a note here to explain what you have translated.
 
-If you don't want your request to be returned by the maintainer because of some minor formatting gaps, you'd better enable this feature:![](<../.gitbook/assets/image (3).png>)
+If you don't want your request to be returned by the maintainer because of some minor formatting gaps, you'd better enable this feature:![](<../.gitbook/assets/image (3) (2).png>)
 
 ![](<../.gitbook/assets/image (21).png>)
 
-Finally, all you have to do is click the <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> button and you're done!
+Finally, all you have to do is click the <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> button and you're done!
 
 ## Be an issue reporter
 

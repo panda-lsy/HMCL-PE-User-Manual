@@ -43,5 +43,16 @@
 2. Updated [**Download link**](https://github.com/Tungstend/HMCL-PE/releases/tag/22.8.18)**(**22.8.8→22.8.18)
 3. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
 
+### 1.01a
+
+1. Added content to the [**"Asking for Help"**](../time-to-play/game-crashed/asking-for-help.md#how-to-find-the-location-of-your-minecraft-folder) section.
+2. Added content to the **** [**"Control Layout Pattern"**](../basic-settings/global-game-settings/control-layout-pattern.md) section.
+3. Added content to the **** [**"Install Forge/Fabric/Liteloader"**](../prepare-for-minecraft/installing/install-forge-fabric-liteloader.md) section.
+4. Added content to the **** [**"Download Forge/Fabric/Liteloader"**](../prepare-for-minecraft/download/download-forge-fabric-liteloader.md) section.
+5. Added content to the **** [**"Q:Download always fails with HMCL-PE"**](../faq/q-download-always-fails-with-hmcl-pe.md) section.
+6. Added [**"How to increase FPS"**](../prepare-for-minecraft/how-to-increase-fps.md) section.
+7. Added [**"Q:Forge download always fails with HMCL-PE"**](../faq/q-forge-download-always-fails-with-hmcl-pe.md) Q\&A
+8. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
+
 
 

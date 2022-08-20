@@ -10,7 +10,7 @@ Click on the <img src="../../.gitbook/assets/image (20).png" alt="" data-size="l
 
 #### Then,Create your version of the this project
 
-Click on <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> Button
+Click on <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> Button
 
 You will then be automatically redirected to your own version.
 
@@ -20,9 +20,9 @@ You will then be automatically redirected to your own version.
 
 First, switch to the branch you want to edit.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
-All you need to do is open a file and click the <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line"> button.
+All you need to do is open a file and click the <img src="../../.gitbook/assets/image (18) (1).png" alt="" data-size="line"> button.
 
 After edit,you need to Slide to the bottom of the page and click on the <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> button
 
@@ -30,18 +30,18 @@ After edit,you need to Slide to the bottom of the page and click on the <img src
 
 Once you have edited the file, you will see that the appearance looks like this.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
-All you have to do is click the <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> button to submit your Pull Request to the community!
+All you have to do is click the <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line"> button to submit your Pull Request to the community!
 
 If you follow the manual tutorial, you do not need to change here.
 
-![If you follow the manual tutorial for translation, you do not need to change here.](<../../.gitbook/assets/image (10).png>)
+![If you follow the manual tutorial for translation, you do not need to change here.](<../../.gitbook/assets/image (10) (2).png>)
 
 You can make a note here to explain what you have done.
 
-If you don't want your request to be returned by the maintainer because of some minor formatting gaps, you'd better enable this feature:![](<../../.gitbook/assets/image (3).png>)
+If you don't want your request to be returned by the maintainer because of some minor formatting gaps, you'd better enable this feature:![](<../../.gitbook/assets/image (3) (2).png>)
 
 ![](<../../.gitbook/assets/image (21).png>)
 
-Finally, all you have to do is click the <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> button and you're done!
+Finally, all you have to do is click the <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> button and you're done!

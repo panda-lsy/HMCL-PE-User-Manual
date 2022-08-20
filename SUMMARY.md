@@ -70,6 +70,7 @@
   * [Install Optifine](prepare-for-minecraft/installing/install-optifine.md)
 * [Updates](prepare-for-minecraft/updates/README.md)
   * [Mods Update](prepare-for-minecraft/updates/mods-update.md)
+* [How to increase FPS](prepare-for-minecraft/how-to-increase-fps.md)
 
 ## 🕹 Time to Play
 
@@ -101,6 +102,7 @@
 * [Q:My HMCLPE folder is empty](faq/q-my-hmclpe-folder-is-empty.md)
 * [Q:Cannot touch the items in item bar](faq/q-cannot-touch-the-items-in-item-bar.md)
 * [Q:Need a key to enter HMCL-PE](faq/q-need-a-key-to-enter-hmcl-pe.md)
+* [Q:Forge download always fails with HMCL-PE](faq/q-forge-download-always-fails-with-hmcl-pe.md)
 
 ## 🤝 MOD Helper
 

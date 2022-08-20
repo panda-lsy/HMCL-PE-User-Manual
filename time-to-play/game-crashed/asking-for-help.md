@@ -4,6 +4,30 @@
 
 Before you can rule out problems caused by mods or games, you need to consider that there is a problem with the Java VM driver (launcher) or hardware.
 
+## How to find the location of your minecraft folder?
+
+### 1.Go to your game version list,Click on the minecraft version you have downloaded
+
+![](../../.gitbook/assets/Screenshot\_2022-08-16-15-12-39-65\_d17cc25ab2657fb.jpg)
+
+![](../../.gitbook/assets/Screenshot\_2022-08-16-15-13-42-33\_d17cc25ab2657fb.jpg)
+
+### 2.Turn on your version settings
+
+![](../../.gitbook/assets/Screenshot\_2022-08-16-15-14-05-37\_d17cc25ab2657fb.jpg)
+
+### 3.Turn on version isolation to make it easy to find the target folder.
+
+![](../../.gitbook/assets/Screenshot\_2022-08-16-15-14-24-89\_d17cc25ab2657fb.jpg)
+
+{% hint style="info" %}
+Version isolation is great feature, it allows you to install multiple minecraft versions in one .minecraft folder and they don't affect each other, which solves a lot of unnecessary troubles.
+{% endhint %}
+
+### 4.The destination folder where you will drag the Modpack files is here
+
+![](../../.gitbook/assets/Screenshot\_2022-08-16-15-14-35-42\_d17cc25ab2657fb.jpg)
+
 ### _**Repeat, the location of your minecraft folder. The following will be replaced with "\[minecraft-version]":**_
 
 When you use version isolation, each of your minecraft version folders will be in `HMCLPE/.minecraft/versions/[your-version-name]`
