@@ -25,3 +25,18 @@ The mirror source is the MCBBS forum.MCBBS is a Minecraft forum in China, so it 
 {% hint style="warning" %}
 If you failed to download, it means that HMCL-PE helped you to use mirror download. You need to replace it to the official source.
 {% endhint %}
+
+## If there is a problem with the download, here's what you should do
+
+### Uncheck the "Auto choose download mirror" box
+
+![](../../.gitbook/assets/Screenshot\_2022-08-21-11-21-45-93\_d17cc25ab2657fb.jpg)
+
+### Change your download source
+
+You are best to test all three sources (the first two are recommended) until the problem is fixed.
+
+![](../../.gitbook/assets/Screenshot\_2022-08-21-11-22-01-31\_d17cc25ab2657fb.jpg)
+
+
+

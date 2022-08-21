@@ -54,5 +54,11 @@
 7. Added [**"Q:Forge download always fails with HMCL-PE"**](../faq/q-forge-download-always-fails-with-hmcl-pe.md) Q\&A
 8. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
 
+### 1.01b
+
+1. Added content to the **** [**"Q:Download always fails with HMCL-PE"**](../faq/q-download-always-fails-with-hmcl-pe.md) Q\&A
+2. Added content to the [**"Q:Forge download always fails with HMCL-PE"**](../faq/q-forge-download-always-fails-with-hmcl-pe.md) Q\&A
+3. The version number has been changed in the **** [**Introduction**](broken-reference) **** section.
+
 
 

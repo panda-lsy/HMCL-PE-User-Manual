@@ -1,7 +1,7 @@
 # Install Forge/Fabric/Liteloader
 
 {% hint style="danger" %}
-Using these method does not prevent the Forge installation from failing. You can [**check this FAQ**](../../faq/q-download-always-fails-with-hmcl-pe.md), a better way is to use a VPN connection to a Chinese network.
+Using these method does not prevent the Forge installation from failing. You should [<mark style="background-color:red;">**Change download way**</mark>](../../basic-settings/download/download-settings.md#if-there-is-a-problem-with-the-download-heres-what-you-should-do) <mark style="background-color:red;">**in HMCLPE.**</mark>
 {% endhint %}
 
 ## Mod loader installation using HMCL-PE
