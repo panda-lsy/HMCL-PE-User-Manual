@@ -14,4 +14,4 @@ The lower you adjust this option, the smaller the game GUI will be (does not aff
 
 When it is adjusted small enough, you may not be able to see the displayed text.
 
-You can change this seeting however you like using the textbox
+You can change this setting however you like using the textbox
