@@ -14,7 +14,7 @@ description: You can download HMCL-PE here.
 
 #### ****[**Github Releases**](https://github.com/Tungstend/HMCL-PE/releases)**(Click to see\&download all HMCL-PE Releases)**
 
-#### [Direct Download link](https://github.com/Tungstend/HMCL-PE/releases/download/22.8.18/HMCLPE-release.apk)(Version:22.8.18-update-1.0.0)
+#### [Direct Download link](https://github.com/huanghongxun/HMCL-PE/releases/download/22.8.30/HMCLPE-release.apk)(Version:22.8.18-update-1.0.0)
 
 {% hint style="warning" %}
 The Direct Download link does not necessarily mean the **latest version**. The manual author cannot be online on a weekday, which means that the manual **will not receive the latest HMCL-PE version on time**. If it is convenient, please also go to [**Releases**](https://github.com/Tungstend/HMCL-PE/releases) **** to check all versions and download the latest version.
