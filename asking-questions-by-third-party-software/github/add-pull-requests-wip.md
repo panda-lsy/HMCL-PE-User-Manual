@@ -8,7 +8,7 @@ Click on the <img src="../../.gitbook/assets/image (20).png" alt="" data-size="l
 
 ![](<../../.gitbook/assets/image (16).png>)
 
-#### Then,Create your version of the this project
+#### Then, Create your version of the this project
 
 Click on <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> Button
 
@@ -24,7 +24,7 @@ First, switch to the branch you want to edit.
 
 All you need to do is open a file and click the <img src="../../.gitbook/assets/image (18) (1).png" alt="" data-size="line"> button.
 
-After edit,you need to Slide to the bottom of the page and click on the <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> button
+After edit, you need to Slide to the bottom of the page and click on the <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> button
 
 ### How do I submit my files to the community?
 
