@@ -1,7 +1,9 @@
 # Blessing Skin
 
-##Change Language
+Change Language
+
+You can find this at the top of the website
 
 ![browser_Sbn9WWP2mM](https://user-images.githubusercontent.com/87885053/207530486-d608a77c-2d50-4612-a3d1-7aa8c70c225b.png)
 
-You can find this at the top of the website
+
