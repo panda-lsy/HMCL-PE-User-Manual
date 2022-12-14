@@ -29,11 +29,11 @@ You have two ways to render the game.
 
 #### Holy GL4ES(OpenGL 2.1/3.2)
 
-This renderer is more stable(Manual writer's test conclusions, for reference only)
+This renderer is more stable (Manual writer's test conclusions, for reference only)
 
-#### VirGLRenderer(OpenGL4.3)
+#### VirGLRenderer(OpenGL 4.3)
 
-This renderer will give your game a higher FPS(Manual writer's test conclusions, for reference only)
+This renderer will give your game a higher FPS (Manual writer's test conclusions, for reference only)
 
 ### FAQ
 
