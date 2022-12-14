@@ -42,7 +42,7 @@ If not_**,**_your minecraft version folders will be in
 
 Location:_**`[minecraft-version]/logs/latest.log`**_
 
-* [ ] 
+* [ ] Lastest crash log
 
 Location:_**`[minecraft-version]/crash-reports`**_
 
@@ -51,7 +51,7 @@ Crash reports are generally named as
 
 crash-year-month-day_hour.min.second-type.txt
 
-Example: crash-2022-12-01_12.00.00
+Example: crash-2022-12-01_12.00.00-client.txt
 
 The types include client (client side) and server (server side), client side is the game launched directly with a launcher (such as HMCL-PE), server side is the server launched with the opening service file.
 {% endhint %}
