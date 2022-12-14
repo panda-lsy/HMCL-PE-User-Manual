@@ -26,7 +26,7 @@ The specific settings will be mentioned [below](../../time-to-play/hmcl-pe-contr
 
 ### Share
 
-You can click the "<a href="https://www.flaticon.com/free-icons/share" title="share icons">" button to export your settings as a .hmclpe file and share with friends
+You can click the "<a href="https://www.flaticon.com/free-icons/share" title="share icons"></a>" button to export your settings as a .hmclpe file and share with friends
 
 You can exchange these with other players in the "HMCL-PE": "#custom-control" section of the [official HMCL-PE Discord](https://discord.com/invite/c79XjKHy4S).
 
