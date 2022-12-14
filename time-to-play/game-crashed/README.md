@@ -14,4 +14,4 @@ You need to post the issue to the "SUPPORT:#On-game-crash-report" section of Dis
 
 First thing you need to check is **logs**
 
-And as shown in the quote above, troubleshooting without error logs is **HARD**
+And as shown in the quote above, troubleshooting without error logs is like fixing a leak blinded
