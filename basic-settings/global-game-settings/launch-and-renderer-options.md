@@ -20,8 +20,8 @@ You can launch the game via Boat or PojavLauncher.
 
 | Launcher/Advantages & disadvantages | Advantages        | Disadvantages                    |
 | ----------------------------------- | ----------------- | -------------------------------- |
-| Boat                                |                   | Can't Launch Sodium              |
-| PojavLauncher                       | Can Launch Sodium |                                  |
+| Boat                                | More FPS          | Can't Launch Sodium              |
+| PojavLauncher                       | Can Launch Sodium | Less FPS                         |
 
 ### Renderer
 
