@@ -4,7 +4,7 @@ description: You can only change it to one color.
 
 # Theme
 
-Open the [Appearance Settings screen](./),find this:
+Open the [Appearance Settings screen](./), find this:
 
 You can change the color of the title bar with this.
 
