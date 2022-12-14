@@ -10,6 +10,6 @@ Version isolation is great feature, it allows you to install multiple minecraft 
 
 When you use version isolation, each of your minecraft version folders will be in separate folders.
 
-Location: _**`HMCLPE/.minecraft/versions/[your-version-name]`**_
+Location: _**`HMCLPE/.minecraft/versions/[profile-name]`**_
 
 If you add mods to the mods folder in the main folder, they will not be loaded.
