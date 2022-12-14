@@ -12,7 +12,7 @@ When you activate the automatically allocate feature, it will allocate your RAM 
 
 In different versions of minecraft, you'd better allocate different amounts of memory.
 
-In vanilla minecraft, you can allocate 1024MB-2048MB of RAM, with minimum being 800MB of RAM.
+In vanilla minecraft, you can allocate 1024MB-2048MB of RAM, with minimum being 800MB of RAM. (Tested on Samsung Galaxy A30s)
 
-In a modpack with many mods, you may need to allocate more than 4096MB of memory(Of course, you'd better allocate RAM according to the Modpack author's description.)
+In a modpack with many mods, you may need to allocate more than 4096MB of memory (Of course, you'd better allocate RAM according to the Modpack author's description.)
 
