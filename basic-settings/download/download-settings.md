@@ -20,10 +20,10 @@ HMCL-PE will automatically select the download method for you
 
 ### \[Not recommended]From Mirror
 
-The mirror source is the MCBBS forum.MCBBS is a Minecraft forum in China, so it may take longer to load this site if you are not in China.
+The mirror source is the MCBBS forum. MCBBS is a Minecraft forum in China, so it may take longer to load this site if you are not in China.
 
 {% hint style="warning" %}
-If you failed to download, it means that HMCL-PE helped you to use mirror download. You need to replace it to the official source.
+Unless you're in China, it's not recommended to download from this mirror.
 {% endhint %}
 
 ## If there is a problem with the download, here's what you should do
