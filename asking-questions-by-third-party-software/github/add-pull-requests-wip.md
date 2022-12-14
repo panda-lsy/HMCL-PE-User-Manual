@@ -1,6 +1,6 @@
 # Add Pull Requests
 
-## Open the a [Project in Github(Like HMCL-PE User Manual)](https://github.com/panda-lsy/HMCL-PE-User-Manual)
+## Open a [Project in Github(Like HMCL-PE User Manual)](https://github.com/panda-lsy/HMCL-PE-User-Manual)
 
 Click on the <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> button to copy the file to your account
 
