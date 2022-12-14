@@ -13,3 +13,5 @@ You need to post the issue to the "SUPPORT:#On-game-crash-report" section of Dis
 ## Troubleshooting the problem
 
 First thing you need to check is **logs**
+
+And as shown in the quote above, troubleshooting without error logs is **HARD**
