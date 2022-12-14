@@ -10,6 +10,6 @@ You just need to click this button to get an offline account with a name you can
 
 You can also change your UUID through advanced settings.
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 If you log in offline, there are many functions that will be limited. We suggest you buy a Online account to support Minecraft
 {% endhint %}
