@@ -143,7 +143,7 @@ You can click on the [links](../../asking-questions-by-third-party-software/disc
 You can also get the tutorial in Discord under ["Support:#readme"](https://discord.com/channels/995291757799538688/1003984509412315166).
 
 {% hint style="danger" %}
-Note: Please do not copy the content of the file and paste it in Discord, this will not only lead to untidy content, but will also take up a lot of your chat space
+Note: Please do not copy the content of the file and paste it in Discord, this will not only lead to untidy content, but will also take up a lot of your chat space and could leak some infomation
 {% endhint %}
 
 _**``**_
