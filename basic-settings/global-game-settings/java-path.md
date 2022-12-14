@@ -6,4 +6,4 @@ Open the [Global game settings screen](./),find this:
 
 Different minecraft versions require different versions of Java to start, if you don't know much about this, then leave it as "Automatically Select"
 
-You can select Java by clicking on the gray triangle on the right.
+You can select Java Path by clicking on the gray triangle on the right.
