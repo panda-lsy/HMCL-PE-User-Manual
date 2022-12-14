@@ -10,4 +10,6 @@ description: This is your chance to improve your questioning skills.
 
 You need to post the issue to the "SUPPORT:#On-game-crash-report" section of Discord or submit to GITHUB
 
-##
+## Troubleshooting the problem
+
+First thing you need to check is **logs**
