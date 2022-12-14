@@ -39,8 +39,8 @@
   * [Authentication Server Login](accounts/add-an-account/authentication-server-login/README.md)
     * [Authlib-injector](accounts/add-an-account/authentication-server-login/authlib-injector/README.md)
       * [Littleskin](accounts/add-an-account/authentication-server-login/authlib-injector/littleskin.md)
-      * [Blessing Skin (WIP!)](accounts/add-an-account/authentication-server-login/authlib-injector/blessing-skin-wip.md)
-    * [nide8auth(WIP)](accounts/add-an-account/authentication-server-login/nide8auth-wip.md)
+      * [Blessing Skin (WIP)](accounts/add-an-account/authentication-server-login/authlib-injector/blessing-skin-wip.md)
+    * [nide8auth (Incomplete)](accounts/add-an-account/authentication-server-login/nide8auth-wip.md)
     * [Login via Authentication Server](accounts/add-an-account/authentication-server-login/login-via-authentication-server/README.md)
       * [nide8auth(WIP)](accounts/add-an-account/authentication-server-login/login-via-authentication-server/nide8auth-wip.md)
       * [Authlib-injector](accounts/add-an-account/authentication-server-login/login-via-authentication-server/authlib-injector.md)
@@ -88,10 +88,9 @@
 * [Asking for Help](time-to-play/game-crashed/asking-for-help.md)
   * [The Art of Asking Questions](time-to-play/game-crashed/the-art-of-asking-questions.md)
   * [Game Crashed!](time-to-play/game-crashed/README.md)
-    * [Solve the problem yourself(WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
+    * [Solve the problem yourself (WIP)](time-to-play/game-crashed/solve-the-problem-yourself-wip.md)
     * [Launcher issues](time-to-play/asking-for-help/game-crashed/launcher-issues.md)
   * [HMCL-PE Crashed!](time-to-play/asking-for-help/hmcl-pe-crashed-wip/README.md)
-    * [Solve the problem yourself(WIP)](time-to-play/asking-for-help/hmcl-pe-crashed-wip/solve-the-problem-yourself-wip.md)
 
 ## ❓ FAQ
 
