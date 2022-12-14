@@ -6,4 +6,4 @@
 
 ![the picture which the second player provided:ERROR RENDERING](<../.gitbook/assets/image (2) (1) (2).png>)
 
-### A:Try the newest release build. [Releases](https://github.com/Tungstend/HMCL-PE/releases/), if still persist, try the latest dev build
+### A:Try the newest release version. [Releases](https://github.com/Tungstend/HMCL-PE/releases/), if still persist, try the latest dev version.
