@@ -51,9 +51,9 @@ Crash reports are generally named as
 
 crash-year-month-day_hour.min.second-type.txt
 
-Example: crash-2022-12-01_12.00.00-client.txt
-
 The types include client (client side) and server (server side), client side is the game launched directly with a launcher (such as HMCL-PE), server side is the server launched with the opening service file.
+
+Example: crash-2022-12-01_12.00.00-client.txt
 {% endhint %}
 
 * [ ] What you did before the crash, etc., some information about your playtime
