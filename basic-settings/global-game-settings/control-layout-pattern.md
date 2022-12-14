@@ -26,7 +26,7 @@ The specific settings will be mentioned [below](../../time-to-play/hmcl-pe-contr
 
 ### Share
 
-You can click the share button to export your settings as a .hmclpe file and share with friends
+You can click the "![image](https://user-images.githubusercontent.com/87885053/207526436-ac92bdc6-0cc3-40e2-baf6-388f231230b4.png)" button to export your settings as a .hmclpe file and share with friends
 
 You can exchange these with other players in the "HMCL-PE": "#custom-control" section of the [official HMCL-PE Discord](https://discord.com/invite/c79XjKHy4S).
 
