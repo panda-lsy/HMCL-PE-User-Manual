@@ -39,7 +39,7 @@
   * [Authentication Server Login](accounts/add-an-account/authentication-server-login/README.md)
     * [Authlib-injector](accounts/add-an-account/authentication-server-login/authlib-injector/README.md)
       * [Littleskin](accounts/add-an-account/authentication-server-login/authlib-injector/littleskin.md)
-      * [Blessing Skin(WIP)](accounts/add-an-account/authentication-server-login/authlib-injector/blessing-skin-wip.md)
+      * [Blessing Skin (WIP!)](accounts/add-an-account/authentication-server-login/authlib-injector/blessing-skin-wip.md)
     * [nide8auth(WIP)](accounts/add-an-account/authentication-server-login/nide8auth-wip.md)
     * [Login via Authentication Server](accounts/add-an-account/authentication-server-login/login-via-authentication-server/README.md)
       * [nide8auth(WIP)](accounts/add-an-account/authentication-server-login/login-via-authentication-server/nide8auth-wip.md)
