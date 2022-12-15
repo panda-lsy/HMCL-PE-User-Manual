@@ -10,7 +10,7 @@ Open the [Download Settings screen](./), find this:
 
 You can download minecraft files in three ways
 
-### \[Recommend]From Official Sources
+### \[Recommended]From Official Sources
 
 It will download the official game resources from Mojang, which will be the fastest way.
 
