@@ -6,7 +6,7 @@ description: You can achieve this by using a mod
 
 The name of this mod is [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) and it allows loading skins from the network or locally.
 
-If you want to use it, you need to install it in the server side and the client side.
+If you want to use it, you need to install on both sides
 
 It supports many versions of the game:
 
