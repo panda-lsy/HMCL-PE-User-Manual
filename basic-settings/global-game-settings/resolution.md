@@ -14,4 +14,4 @@ The lower you adjust this option, the smaller the game GUI will be (does not aff
 
 When it is adjusted small enough, you may not be able to see the displayed text.
 
-If you drag it to the far right isn't enough, you can change the number to 200 or 300 and more.
+You can change this setting however you like using the textbox

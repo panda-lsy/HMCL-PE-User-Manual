@@ -6,4 +6,4 @@
 
 ![the picture which the second player provided:ERROR RENDERING](<../.gitbook/assets/image (2) (1) (2).png>)
 
-### A:Try the newest version.([Direct Download link](https://github.com/Tungstend/HMCL-PE/releases/download/22.8.18/HMCLPE-release.apk)(Version:22.8.18-update-1.0.0))
+### A:Try the newest release version. [Releases](https://github.com/Tungstend/HMCL-PE/releases/), if still persist, try the latest dev version.

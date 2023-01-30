@@ -6,7 +6,7 @@
 Since the manual author rarely uses this feature, there is very little content, so I'd appreciate it if you could add and contribute!
 {% endhint %}
 
-Open the [Global game settings screen](./),find this:
+Open the [Global game settings screen](./), find this:
 
 You can manage the touch layout options that HMCL-PE gives you.
 
@@ -40,4 +40,4 @@ You may not have a way to import Pojav Launcher's Control Layout Pattern directl
 
 ### Delete
 
-You can delete configuration by clicking the Trash button.
+You can delete configuration by clicking the "🗑" button.

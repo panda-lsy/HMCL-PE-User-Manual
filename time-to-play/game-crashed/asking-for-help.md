@@ -42,16 +42,18 @@ If not_**,**_your minecraft version folders will be in
 
 Location:_**`[minecraft-version]/logs/latest.log`**_
 
-* [ ] the newest crash report()
+* [ ] Lastest crash log
 
 Location:_**`[minecraft-version]/crash-reports`**_
 
 {% hint style="info" %}
 Crash reports are generally named as
 
-crash-year-month-day\_hour.min.second-type.txt
+crash-year-month-day_hour.min.second-type.txt
 
 The types include client (client side) and server (server side), client side is the game launched directly with a launcher (such as HMCL-PE), server side is the server launched with the opening service file.
+
+Example: crash-2022-12-01_12.00.00-client.txt
 {% endhint %}
 
 * [ ] What you did before the crash, etc., some information about your playtime
@@ -141,7 +143,7 @@ You can click on the [links](../../asking-questions-by-third-party-software/disc
 You can also get the tutorial in Discord under ["Support:#readme"](https://discord.com/channels/995291757799538688/1003984509412315166).
 
 {% hint style="danger" %}
-Note: Please do not copy the content of the file and paste it in Discord, this will not only lead to untidy content, but will also take up a lot of your chat space
+Note: Please do not copy the content of the file and paste it in Discord, this will not only lead to untidy content, but will also take up a lot of your chat space and could leak some infomation
 {% endhint %}
 
 _**``**_

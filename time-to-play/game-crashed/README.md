@@ -9,3 +9,5 @@ description: This is your chance to improve your questioning skills.
 **If the game crashes, you can either seek help from others or solve the problem yourself.**
 
 You need to post the issue to the "SUPPORT:#On-game-crash-report" section of Discord or submit to GITHUB
+
+

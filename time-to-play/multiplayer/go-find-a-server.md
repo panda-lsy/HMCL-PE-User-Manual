@@ -1,4 +1,4 @@
-# Go,Find a server
+# Go Find a server
 
 ## Preparation
 
