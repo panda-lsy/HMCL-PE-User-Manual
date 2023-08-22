@@ -1,18 +1,20 @@
 ---
-description: In the game memory that is allocated is RAM
+description: 游戏中分配的内存是RAM
 ---
 
-# 💻 Memory
+# 💻 内存
 
-Open the [Global game settings screen](./),find this:
+打开[全局游戏设置界面](./)，找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-15-30-48-12\_d17cc25ab2657fb.jpg)
 
-When you activate the automatically allocate feature, it will allocate your RAM according to the needs of the game.
+当你启用自动分配内存选项，软件会根据游戏的需要来分配你的内存（RAM）。
 
-In different versions of minecraft, you'd better allocate different amounts of memory.
+在不同版本的MC中，你最好分配不同的内存。
 
-In vanilla minecraft, you can allocate 1024MB-2048MB RAM
+例如，在vanilla版本中，你可以分配1024~2048MB。
 
-In a modpack with many mods, you may need to allocate more than 4096MB of memory(Of course, you'd better allocate RAM according to the Modpack author's description.)
+如果使用了一个包含许多mod的整合包，你可能需要分配超过4096MB的内存。
+
+（当然，最好是根据整合包作者的描述来更改分配的内存。）
 

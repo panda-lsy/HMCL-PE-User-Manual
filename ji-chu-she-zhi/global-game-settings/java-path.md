@@ -1,9 +1,9 @@
-# ☕ Java Path
+# ☕ Java路径
 
-Open the [Global game settings screen](./),find this:
+打开[全局游戏设置界面](./)，找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-15-22-11-35\_d17cc25ab2657fb.jpg)
 
-Different minecraft versions require different versions of Java to start, if you don't know much about this, you just need to change this setting to Automatically Select
+不同版本的MC需要不同版本的Java来启动。如果你不是很了解这件事，你只需要设置成自动选择即可。
 
-You can select Java by clicking on the gray triangle on the right.
+你可以点击右边的灰色三角来选择Java。
