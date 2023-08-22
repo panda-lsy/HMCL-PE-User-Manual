@@ -1,11 +1,11 @@
 ---
-description: Connect your phone to Torcherino
+description: 为你的手机连接上加速火把
 ---
 
-# 🚀 Multi-threaded download
+# 🚀 多线程下载
 
-Open the [Download Settings screen](./),find this:
+打开[下载设置界面](./)，找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-49-17-12\_d17cc25ab2657fb.jpg)
 
-Not the more threads you have the faster the download. If you can't decide the number of threads to set, you can let HMCL-PE choose it automatically.
+更多的线程不一定意味着更快的下载。如果你无法决定使用多少个线程，可以让HMCL-PE自动选择并发数。

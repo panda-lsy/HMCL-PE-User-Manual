@@ -1,25 +1,26 @@
-# Background Image
+# 背景图片
 
-Open the [Appearance Settings screen](./),find this:
-
-You have four ways to change the background image.
+打开[外观设置界面](./),找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-20-17-59\_d17cc25ab2657fb.jpg)
 
-### Default
+这里有四种方式可供更改背景。
 
-Use the default background image
+### 默认
 
-### Classic
+使用默认背景图片。
 
-using Hello Minecraft!Launcher's classic background image
+### 经典
 
-### Custom
+使用HMCL的经典背景图片。
 
-Use your own image (you need to find it through the file manager)
+### 自定义
 
-### From URL
+使用你自己的图片（你需要从文件管理器中找到所需图片）
+
+### 使用URL
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-38-42-99\_d17cc25ab2657fb.jpg)![](../../.gitbook/assets/Screenshot\_2022-08-14-16-38-40-34\_d17cc25ab2657fb.jpg)
 
-You need to copy the link that ends in image format in the input box.
+你需要复制一个指向图片文件的URL，将其粘贴到输入框中。
+

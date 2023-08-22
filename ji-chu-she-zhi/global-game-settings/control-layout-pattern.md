@@ -1,37 +1,39 @@
-# ⌨ Control Layout Pattern
+# ⌨ 触控布局方案
 
 {% hint style="info" %}
-Since the manual author rarely uses this feature, there is very little content, so I'd appreciate it if you could add and contribute!
+手册作者不常用这个功能，因此这里内容很少。如果你能来添加一点内容的话，我将不胜感激。
 {% endhint %}
 
-Open the [Global game settings screen](./),find this:
-
-You can manage the touch layout options that HMCL-PE gives you.
+打开[全局游戏设置界面](./)，找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-15-46-09-16\_d17cc25ab2657fb.jpg)
 
-### Create
+在这里，你可以管理HMCL-PE提供的触控布局方案。
 
-You can click the Create button to create a new Control Layout Pattern
+### 创建新的布局方案
 
-### Edit
+点击这个按钮，可以创建一个新的布局。
 
-You can change the touch layout options by clicking the “🖊” icon without opening the game.
+### 编辑布局
+
+点击“🖊”按钮，你可以改变触控按钮的布局，而不用先启动游戏。
 
 {% hint style="info" %}
-The specific settings will be mentioned [below](../../time-to-play/hmcl-pe-control-layout-pattern/).
+这部分设置将会在[下面的内容](../../time-to-play/hmcl-pe-control-layout-pattern/)中提到。
 {% endhint %}
 
-### Share
+### 分享
 
-You can click the share button to export your settings as a .hmclpe file and share with friends
+点击分享按钮，你可以把你的键位配置导出为一个`.hmclpe`格式文件，并可以将其分享给你的朋友。
 
-You can exchange these with other players in the "HMCL-PE": "#custom-control" section of the [official HMCL-PE Discord](https://discord.com/invite/c79XjKHy4S).
+你可以在我们的[HMCL-PE官方Discord](https://discord.com/invite/c79XjKHy4S)，把你的设置与其他玩家分享。
 
-### Import
+### 导入
 
-After you download someone else's file, you need to use this function to import it to HMCL-PE. or you can click on the downloaded .hmclpe format file and open it with HMCL-PE
+当你下载了别人的`.hmclpe`文件后，你需要用这个功能，把布局设置导入到HMCL-PE。
 
-### Delete
+你也可以点击下载好的`.hmclpe`文件，并选择“使用HMCL-PE打开”。
 
-You can delete configuration by clicking the Trash button.
+### 删除
+
+点击垃圾桶图标，可以删除不需要的配置。
