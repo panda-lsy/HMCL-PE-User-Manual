@@ -1,27 +1,30 @@
 ---
-description: You may need to modify your download settings.
+description: 你可能需要更改你的下载设置。
 ---
 
-# ⚙ Download Settings
+# ⚙ 下载设置
 
-Open the [Download Settings screen](./),find this:
+打开[下载设置界面](./)，找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-42-02-79\_d17cc25ab2657fb.jpg)
 
-You can download minecraft files in three ways
+你可以通过以下3中方式下载MC文件：
 
-### \[Recommend]From Official Sources
+### 尽量使用官方源
 
-It will download the official game resources from Mojang, which will be the fastest way.
+这会从Mojang下载官方的游戏资源文件。下载到的游戏文件将会是最新的，但可能加载慢。
 
-### From Fastest Available
+### 选择加载速度快的下载源
 
-HMCL-PE will automatically select the download method for you
+HMCL-PE会自动选择最快的下载方法。可能不是最新。
 
-### \[Not recommended]From Mirror
+### 尽量使用镜像源
 
-The mirror source is the MCBBS forum.MCBBS is a Minecraft forum in China, so it may take longer to load this site if you are not in China.
+此处的镜像源是MCBBS论坛。MCBBS是一个位于中国的MC论坛，因此如果你不在中国境内，这会拖慢下载速度。（中国境内下载快，但可能不是最新的）
 
 {% hint style="warning" %}
-If you failed to download, it means that HMCL-PE helped you to use mirror download. You need to replace it to the official source.
+如果你发生下载失败，（对于国外用户）这意味着HMCL-PE选择了从镜像站下载文件。你需要改变设置，使其从官方下载。
+
+（对于国内用户，你可以切换并尝试另一个下载源）
+
 {% endhint %}

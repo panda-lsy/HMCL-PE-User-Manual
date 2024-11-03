@@ -1,13 +1,13 @@
-# 📁 Working Directory
+# 📁 工作路径
 
-Open the [Global game settings screen](./),find this:
+打开[全局游戏设置界面](./)，找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-15-25-55-71\_d17cc25ab2657fb.jpg)
 
-When you initially use HMCL-PE, it does not start version isolation.
+当你第一次使用HMCL-PE时，默认不会启用版本隔离。
 
-Version isolation is great feature, it allows you to install multiple minecraft versions in one .minecraft folder and they don't affect each other, which solves a lot of unnecessary troubles.
+版本隔离是一个很有用的功能。它允许你在一个`.minecraft`文件夹下安装多个版本的MC，并且它们互不影响。这会减少很多不必要的麻烦。
 
-When you use version isolation, each of your minecraft version folders will be in `HMCLPE/.minecraft/versions/[your-version-name]`
+当你启用版本隔离后，每个版本的MC文件会分别储存在`HMCLPE/.minecraft/versions/【版本号】`
 
-If you add mods to the mods folder in the main folder, they will not be loaded.
+如果你在主文件夹中添加了mod文件，它们将不会被加载。

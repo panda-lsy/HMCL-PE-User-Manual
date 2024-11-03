@@ -1,17 +1,16 @@
 ---
 description: >-
-  The resolution setting may have a significant correlation with the FPS of your
-  game
+  分辨率设置很可能对游戏的帧率有显著影响。
 ---
 
-# 👀 Resolution
+# 👀 分辨率
 
-Open the [Global game settings screen](./),find this:
+打开[全局游戏设置界面](./)，找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-15-40-00-66\_d17cc25ab2657fb.jpg)
 
-The lower you adjust this option, the smaller the game GUI will be (does not affect the keys provided by HMCL-PE)
+分辨率设置调得越低，游戏画面就会越小。（不会影响HMCL-PE的虚拟按键）
 
-When it is adjusted small enough, you may not be able to see the displayed text.
+如果分辨率调得太小，可能会让你看不到游戏里显示的文字。
 
-If you drag it to the far right isn't enough, you can change the number to 200 or 300 and more.
+如果调到最右边，分辨率仍不够大，你可以在右侧手动输入200、300甚至更大的数字。

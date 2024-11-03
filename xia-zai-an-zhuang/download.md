@@ -13,7 +13,15 @@ HMCLPE没有官方的32位版本，但你可以下载[LegacyGamerHD](https://git
 #### [下载直链](https://github.com/Tungstend/HMCL-PE/releases/download/22.8.8-update/HMCLPE-release.apk)(点击下载Version:22.8.8-update-1.0.0)
 
 {% hint style="warning" %}
-下载直链不一定是最新的版本。手册作者周一到周五不一定在线，这意味着手册不能按时收到最新的HMCL-PE版本。如果方便的话，也请到[**Releases**](https://github.com/Tungstend/HMCL-PE/releases)查看所有版本并下载最新版本。
+下载直链不一定是最新的版本。手册作者周一到周五不一定在线，这意味着手册不能按时收到最新的HMCL-PE版本。如果方便的话，也请到[**Releases**](https://github.com/Tungstend/HMCL-PE/releases)查看所有版本并下载最新版本。同时，建议关注开发者的Bilibili空间，他们可能会在那里发布**未登记到Release页面的新版本**。
+{% endhint %}
+
+### 官方中文版：
+
+****[**Github发行版本列表**](https://github.com/Tungstend/HMCL-PE-CN/releases)**(点击查看/下载)**
+
+{% hint style="success" %}
+某些情况下，中文版的更新速度可能会略快于官方原版。
 {% endhint %}
 
 ### 测试版([LegacyGamerHD](https://github.com/LegacyGamerHD)提供):

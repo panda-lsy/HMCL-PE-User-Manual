@@ -1,20 +1,20 @@
 ---
-description: You can only change it to one color.
+description: 你可以更改主题颜色。
 ---
 
-# Theme
+# 主题
 
-Open the [Appearance Settings screen](./),find this:
-
-You can change the color of the title bar with this.
+打开 [主题设置界面](./),找到如下图所示选项：
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-07-50-95\_d17cc25ab2657fb.jpg)
 
-When you click the button on the right, it will bring up the GUI for you to choose the right color.
+你可以设置这个选项来改变标题栏的颜色。
+
+当你按下右侧按钮后，将会弹出一个对话框，让你选择一个合适的颜色。
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-08-00-67\_d17cc25ab2657fb.jpg)
 
-You can also make the title bar transparent by applying this option.
+你也可以打开如下图所示的开关，让标题栏变透明。
 
 ![](../../.gitbook/assets/Screenshot\_2022-08-14-16-13-23-39\_d17cc25ab2657fb.jpg)
 
